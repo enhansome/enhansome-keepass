@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T19:03:37Z",
             "owner": "keepassxreboot",
             "repo": "keepassxc",
-            "stars": 28380
+            "stars": 28393
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-05-08T03:29:03Z",
             "owner": "keeweb",
             "repo": "keeweb",
-            "stars": 12978
+            "stars": 12979
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-05-23T20:38:25Z",
             "owner": "keepassium",
             "repo": "KeePassium",
-            "stars": 1664
+            "stars": 1663
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-05-08T03:29:03Z",
             "owner": "keeweb",
             "repo": "keeweb",
-            "stars": 12978
+            "stars": 12979
           }
         },
         {
@@ -250,10 +250,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-11T15:31:38Z",
+            "last_commit": "2026-08-15T11:14:09Z",
             "owner": "Kunzisoft",
             "repo": "KeePassDX",
-            "stars": 7121
+            "stars": 7124
           }
         },
         {
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T09:37:14Z",
+            "last_commit": "2026-08-14T12:24:42Z",
             "owner": "aivanovski",
             "repo": "keepassvault",
             "stars": 115
@@ -357,7 +357,7 @@
             "last_commit": "2025-07-23T17:28:24Z",
             "owner": "kee-org",
             "repo": "browser-addon",
-            "stars": 474
+            "stars": 475
           }
         },
         {
@@ -402,7 +402,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T01:40:59Z",
+            "last_commit": "2026-08-15T00:15:44Z",
             "owner": "firecat53",
             "repo": "keepmenu",
             "stars": 222
@@ -638,7 +638,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T21:14:02Z",
+            "last_commit": "2026-08-14T21:13:39Z",
             "owner": "KeeTrayTOTP",
             "repo": "KeeTrayTOTP",
             "stars": 509
@@ -1031,7 +1031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:40:38.736Z",
+    "last_updated": "2026-08-15T11:15:17.307Z",
     "original_repository": "lgg/awesome-keepass",
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
     "enhanced_repository": "enhansome/enhansome-keepass",
