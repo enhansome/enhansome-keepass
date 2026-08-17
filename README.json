@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T19:03:37Z",
             "owner": "keepassxreboot",
             "repo": "keepassxc",
-            "stars": 28406
+            "stars": 28422
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T19:44:28Z",
+            "last_commit": "2026-08-17T10:43:19Z",
             "owner": "authpass",
             "repo": "authpass",
-            "stars": 2762
+            "stars": 2763
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-05-23T20:38:25Z",
             "owner": "keepassium",
             "repo": "KeePassium",
-            "stars": 1665
+            "stars": 1667
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-17T14:03:41Z",
             "owner": "strongbox-password-safe",
             "repo": "Strongbox",
-            "stars": 1451
+            "stars": 1452
           }
         }
       ],
@@ -250,10 +250,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T19:24:02Z",
+            "last_commit": "2026-08-17T11:03:16Z",
             "owner": "Kunzisoft",
             "repo": "KeePassDX",
-            "stars": 7130
+            "stars": 7133
           }
         },
         {
@@ -264,10 +264,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T10:13:08Z",
+            "last_commit": "2026-08-17T09:22:16Z",
             "owner": "PhilippC",
             "repo": "keepass2android",
-            "stars": 6182
+            "stars": 6185
           }
         },
         {
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T07:53:44Z",
+            "last_commit": "2026-08-16T12:48:46Z",
             "owner": "aivanovski",
             "repo": "keepassvault",
             "stars": 115
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T05:36:18Z",
+            "last_commit": "2026-08-17T10:48:39Z",
             "owner": "keepassxreboot",
             "repo": "keepassxc-browser",
-            "stars": 2310
+            "stars": 2312
           }
         },
         {
@@ -722,7 +722,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T06:46:19Z",
+            "last_commit": "2026-08-17T05:18:41Z",
             "owner": "aalbng",
             "repo": "AdvancedConnectPlugin",
             "stars": 60
@@ -896,7 +896,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T07:58:30Z",
+            "last_commit": "2026-08-16T14:46:11Z",
             "owner": "Dracks",
             "repo": "keepass-2-file",
             "stars": 8
@@ -933,7 +933,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13499
+            "stars": 13505
           }
         },
         {
@@ -1031,7 +1031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:15:50.261Z",
+    "last_updated": "2026-08-17T11:20:28.322Z",
     "original_repository": "lgg/awesome-keepass",
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
     "enhanced_repository": "enhansome/enhansome-keepass",
