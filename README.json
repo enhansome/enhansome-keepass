@@ -1,460 +1,497 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeePassXC",
+              "description": "Cross-platform community fork of KeePass. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52729242,
+                "language": "C++",
+                "last_commit": "2026-08-12T19:03:37Z",
+                "owner": "keepassxreboot",
+                "repo": "keepassxc",
+                "stars": 28447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeeWeb",
+              "description": "Free cross-platform password manager compatible with KeePass. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44455683,
+                "language": "HTML",
+                "last_commit": "2026-05-08T03:29:03Z",
+                "owner": "keeweb",
+                "repo": "keeweb",
+                "stars": 12979
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AuthPass",
+              "description": "Password manager based on Flutter for all platforms with KeePass 2.x compatibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203756716,
+                "language": "Dart",
+                "last_commit": "2026-08-18T22:52:35Z",
+                "owner": "authpass",
+                "repo": "authpass",
+                "stars": 2764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneKeePass",
+              "description": "Secure password manager for macOS, Linux, and Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 637955558,
+                "language": "Clojure",
+                "last_commit": "2026-08-06T23:54:57Z",
+                "owner": "OneKeePass",
+                "repo": "desktop",
+                "stars": 487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeePass",
+              "description": "Official KeePass client. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42155635,
+                "language": "C#",
+                "last_commit": "2025-08-23T20:06:48Z",
+                "owner": "dlech",
+                "repo": "KeePass2.x",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeePass Electron",
+              "description": "Desktop HTML5 client for KeePass 2 databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41370000,
+                "language": "JavaScript",
+                "last_commit": "2015-09-01T21:43:48Z",
+                "owner": "IlyaPomaskin",
+                "repo": "KeePass-electron",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cross-platform Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ModernKeePass",
+              "description": "KDBX password manager for the Windows Store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109981911,
+                "language": "C#",
+                "last_commit": "2021-10-25T13:36:20Z",
+                "owner": "wismna",
+                "repo": "ModernKeePass",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeePass4D",
+              "description": "KeePass password manager written in Delphi with KDBX format support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80346509,
+                "language": "Pascal",
+                "last_commit": "2019-08-14T16:50:30Z",
+                "owner": "evpobr",
+                "repo": "KeePass4D",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Windows Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MacPass",
+              "description": "Native macOS KeePass client. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5129986,
+                "language": "Objective-C",
+                "last_commit": "2025-05-07T13:16:04Z",
+                "owner": "MacPass",
+                "repo": "MacPass",
+                "stars": 6853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeePassium",
+              "description": "Open-source commercial password manager for macOS with a free tier. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129610654,
+                "language": "Swift",
+                "last_commit": "2026-05-23T20:38:25Z",
+                "owner": "keepassium",
+                "repo": "KeePassium",
+                "stars": 1667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Strongbox",
+              "description": "Source-available commercial password manager for macOS with a free tier. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63485719,
+                "language": "Objective-C",
+                "last_commit": "2026-07-17T14:03:41Z",
+                "owner": "strongbox-password-safe",
+                "repo": "Strongbox",
+                "stars": 1451
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "macOS Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeeWeb",
+              "description": "Free cross-platform password manager compatible with KeePass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44455683,
+                "language": "HTML",
+                "last_commit": "2026-05-08T03:29:03Z",
+                "owner": "keeweb",
+                "repo": "keeweb",
+                "stars": 12979
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keepass-node",
+              "description": "KeePass 2 editor for Node.js with a browser frontend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14282018,
+                "language": "HTML",
+                "last_commit": "2017-07-18T21:24:30Z",
+                "owner": "gesellix",
+                "repo": "keepass-node",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kee Vault",
+              "description": "Web browser password manager that encrypts databases with the KeePass storage format before synchronization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171127490,
+                "language": "JavaScript",
+                "last_commit": "2025-02-06T12:51:17Z",
+                "owner": "kee-org",
+                "repo": "keevault",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keepass4web-rs",
+              "description": "Rust rewrite of keepass4web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703828597,
+                "language": "Rust",
+                "last_commit": "2026-02-13T15:19:04Z",
+                "owner": "lixmal",
+                "repo": "keepass4web-rs",
+                "stars": 52
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeePassDX",
+              "description": "KeePass password manager for Android. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107244490,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T12:24:14Z",
+                "owner": "Kunzisoft",
+                "repo": "KeePassDX",
+                "stars": 7141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keepass2Android",
+              "description": "Password manager app for Android. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104254445,
+                "language": "C#",
+                "last_commit": "2026-08-17T09:22:16Z",
+                "owner": "PhilippC",
+                "repo": "keepass2android",
+                "stars": 6190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeePassDroid",
+              "description": "KeePass implementation for Android. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101527,
+                "language": "Java",
+                "last_commit": "2025-04-20T22:09:09Z",
+                "owner": "bpellin",
+                "repo": "keepassdroid",
+                "stars": 1427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeePassVault",
+              "description": "KeePass password manager for Android. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95774290,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T08:47:58Z",
+                "owner": "aivanovski",
+                "repo": "keepassvault",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TinyKeePass",
+              "description": "Simple read-only KeePass Android app written in Java and Kotlin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96449992,
+                "language": "Java",
+                "last_commit": "2021-10-18T08:06:08Z",
+                "owner": "sorz",
+                "repo": "TinyKeePass",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeePassXC-Browser",
+              "description": "Browser extension for using KeePassXC with Chrome and Firefox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115543662,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T14:12:02Z",
+                "owner": "keepassxreboot",
+                "repo": "keepassxc-browser",
+                "stars": 2316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "passifox",
+              "description": "Browser extension for filling forms from KeePass through KeePassHTTP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1144547,
+                "language": "JavaScript",
+                "last_commit": "2021-07-27T07:38:10Z",
+                "owner": "pfn",
+                "repo": "passifox",
+                "stars": 896
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kee",
+              "description": "Browser add-on for linking Firefox and Chrome to Kee Vault or KeePass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86247022,
+                "language": "TypeScript",
+                "last_commit": "2025-07-23T17:28:24Z",
+                "owner": "kee-org",
+                "repo": "browser-addon",
+                "stars": 475
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keepass-chrome",
+              "description": "Proof-of-concept extension for loading KDBX files and managing passwords.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44173623,
+                "language": "JavaScript",
+                "last_commit": "2015-10-13T17:50:49Z",
+                "owner": "btd",
+                "repo": "keepass-chrome",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "passhole",
+              "description": "Command-line password manager inspired by pass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84394343,
+                "language": "Python",
+                "last_commit": "2026-04-21T22:50:27Z",
+                "owner": "Evidlo",
+                "repo": "passhole",
+                "stars": 233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keepmenu",
+              "description": "Dmenu, Rofi, and Wofi-style frontend for auto-type and managing KeePass databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120565860,
+                "language": "Python",
+                "last_commit": "2026-08-15T00:15:44Z",
+                "owner": "firecat53",
+                "repo": "keepmenu",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WinPass",
+              "description": "KeePass password manager client for Windows Mobile.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43492138,
+                "language": "C#",
+                "last_commit": "2017-07-04T02:40:13Z",
+                "owner": "gkardava",
+                "repo": "WinPass",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeePassTouch",
+              "description": "Ubuntu Touch version of KeePass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47927361,
+                "language": "C++",
+                "last_commit": "2020-07-18T11:35:12Z",
+                "owner": "DannyGB",
+                "repo": "KeePassTouch",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kdbxviewer",
+              "description": "Command-line tool for viewing KeePass 2 database files. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33501551,
+                "language": "C",
+                "last_commit": "2023-12-27T17:16:14Z",
+                "owner": "luelista",
+                "repo": "kdbxviewer",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Clients"
+        }
+      ],
       "title": "Clients"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KeePassXC",
-          "description": "Cross-platform community fork of KeePass. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-12T19:03:37Z",
-            "owner": "keepassxreboot",
-            "repo": "keepassxc",
-            "stars": 28437
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeeWeb",
-          "description": "Free cross-platform password manager compatible with KeePass. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-08T03:29:03Z",
-            "owner": "keeweb",
-            "repo": "keeweb",
-            "stars": 12977
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AuthPass",
-          "description": "Password manager based on Flutter for all platforms with KeePass 2.x compatibility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-08-17T20:14:35Z",
-            "owner": "authpass",
-            "repo": "authpass",
-            "stars": 2763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OneKeePass",
-          "description": "Secure password manager for macOS, Linux, and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-06T23:54:57Z",
-            "owner": "OneKeePass",
-            "repo": "desktop",
-            "stars": 487
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeePass",
-          "description": "Official KeePass client. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-08-23T20:06:48Z",
-            "owner": "dlech",
-            "repo": "KeePass2.x",
-            "stars": 323
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeePass Electron",
-          "description": "Desktop HTML5 client for KeePass 2 databases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-09-01T21:43:48Z",
-            "owner": "IlyaPomaskin",
-            "repo": "KeePass-electron",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Cross-platform Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ModernKeePass",
-          "description": "KDBX password manager for the Windows Store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2021-10-25T13:36:20Z",
-            "owner": "wismna",
-            "repo": "ModernKeePass",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeePass4D",
-          "description": "KeePass password manager written in Delphi with KDBX format support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2019-08-14T16:50:30Z",
-            "owner": "evpobr",
-            "repo": "KeePass4D",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Windows Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MacPass",
-          "description": "Native macOS KeePass client. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2025-05-07T13:16:04Z",
-            "owner": "MacPass",
-            "repo": "MacPass",
-            "stars": 6853
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeePassium",
-          "description": "Open-source commercial password manager for macOS with a free tier. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-05-23T20:38:25Z",
-            "owner": "keepassium",
-            "repo": "KeePassium",
-            "stars": 1667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Strongbox",
-          "description": "Source-available commercial password manager for macOS with a free tier. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-07-17T14:03:41Z",
-            "owner": "strongbox-password-safe",
-            "repo": "Strongbox",
-            "stars": 1451
-          }
-        }
-      ],
-      "title": "macOS Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KeeWeb",
-          "description": "Free cross-platform password manager compatible with KeePass.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-08T03:29:03Z",
-            "owner": "keeweb",
-            "repo": "keeweb",
-            "stars": 12977
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keepass-node",
-          "description": "KeePass 2 editor for Node.js with a browser frontend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-07-18T21:24:30Z",
-            "owner": "gesellix",
-            "repo": "keepass-node",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kee Vault",
-          "description": "Web browser password manager that encrypts databases with the KeePass storage format before synchronization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-06T12:51:17Z",
-            "owner": "kee-org",
-            "repo": "keevault",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keepass4web-rs",
-          "description": "Rust rewrite of keepass4web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-13T15:19:04Z",
-            "owner": "lixmal",
-            "repo": "keepass4web-rs",
-            "stars": 52
-          }
-        }
-      ],
-      "title": "Web Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KeePassDX",
-          "description": "KeePass password manager for Android. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T12:24:14Z",
-            "owner": "Kunzisoft",
-            "repo": "KeePassDX",
-            "stars": 7137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keepass2Android",
-          "description": "Password manager app for Android. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T09:22:16Z",
-            "owner": "PhilippC",
-            "repo": "keepass2android",
-            "stars": 6187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeePassDroid",
-          "description": "KeePass implementation for Android. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-04-20T22:09:09Z",
-            "owner": "bpellin",
-            "repo": "keepassdroid",
-            "stars": 1428
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeePassVault",
-          "description": "KeePass password manager for Android. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T08:47:58Z",
-            "owner": "aivanovski",
-            "repo": "keepassvault",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TinyKeePass",
-          "description": "Simple read-only KeePass Android app written in Java and Kotlin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-10-18T08:06:08Z",
-            "owner": "sorz",
-            "repo": "TinyKeePass",
-            "stars": 49
-          }
-        }
-      ],
-      "title": "Android Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KeePassXC-Browser",
-          "description": "Browser extension for using KeePassXC with Chrome and Firefox.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T10:48:39Z",
-            "owner": "keepassxreboot",
-            "repo": "keepassxc-browser",
-            "stars": 2313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "passifox",
-          "description": "Browser extension for filling forms from KeePass through KeePassHTTP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-07-27T07:38:10Z",
-            "owner": "pfn",
-            "repo": "passifox",
-            "stars": 896
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kee",
-          "description": "Browser add-on for linking Firefox and Chrome to Kee Vault or KeePass.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-23T17:28:24Z",
-            "owner": "kee-org",
-            "repo": "browser-addon",
-            "stars": 475
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keepass-chrome",
-          "description": "Proof-of-concept extension for loading KDBX files and managing passwords.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-10-13T17:50:49Z",
-            "owner": "btd",
-            "repo": "keepass-chrome",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Browser Extensions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "passhole",
-          "description": "Command-line password manager inspired by pass.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-21T22:50:27Z",
-            "owner": "Evidlo",
-            "repo": "passhole",
-            "stars": 233
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keepmenu",
-          "description": "Dmenu, Rofi, and Wofi-style frontend for auto-type and managing KeePass databases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T00:15:44Z",
-            "owner": "firecat53",
-            "repo": "keepmenu",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WinPass",
-          "description": "KeePass password manager client for Windows Mobile.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2017-07-04T02:40:13Z",
-            "owner": "gkardava",
-            "repo": "WinPass",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeePassTouch",
-          "description": "Ubuntu Touch version of KeePass.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-07-18T11:35:12Z",
-            "owner": "DannyGB",
-            "repo": "KeePassTouch",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kdbxviewer",
-          "description": "Command-line tool for viewing KeePass 2 database files. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-27T17:16:14Z",
-            "owner": "luelista",
-            "repo": "kdbxviewer",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Other Clients"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -463,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69806239,
             "language": "Python",
             "last_commit": "2026-08-09T21:22:03Z",
             "owner": "libkeepass",
@@ -477,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40451143,
             "language": "TypeScript",
             "last_commit": "2024-12-24T00:19:17Z",
             "owner": "keeweb",
@@ -491,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47929285,
             "language": "Java",
             "last_commit": "2026-03-17T18:19:16Z",
             "owner": "jorabin",
@@ -505,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51147726,
             "language": "Rust",
             "last_commit": "2026-08-15T19:32:58Z",
             "owner": "sseemayer",
@@ -519,6 +560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8508654,
             "language": "JavaScript",
             "last_commit": "2016-09-11T00:46:20Z",
             "owner": "snapserv",
@@ -533,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26993319,
             "language": "Java",
             "last_commit": "2020-10-13T02:14:57Z",
             "owner": "cternes",
@@ -547,6 +590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11355102,
             "language": "Objective-C",
             "last_commit": "2025-11-13T20:47:41Z",
             "owner": "MacPass",
@@ -561,6 +605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384214968,
             "language": "Kotlin",
             "last_commit": "2025-09-28T16:46:43Z",
             "owner": "keemobile",
@@ -572,7 +617,7 @@
       "title": "API Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -581,11 +626,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1144571,
             "language": "JavaScript",
             "last_commit": "2023-01-21T19:19:04Z",
             "owner": "pfn",
             "repo": "keepasshttp",
-            "stars": 2037
+            "stars": 2036
           }
         },
         {
@@ -595,6 +641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47201020,
             "language": "C#",
             "last_commit": "2026-05-08T17:17:35Z",
             "owner": "Kyrodan",
@@ -609,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86246517,
             "language": "C#",
             "last_commit": "2024-07-04T14:00:49Z",
             "owner": "kee-org",
@@ -623,6 +671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3896347,
             "language": "C#",
             "last_commit": "2024-07-06T01:15:15Z",
             "owner": "dlech",
@@ -637,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42080063,
             "language": "C#",
             "last_commit": "2026-08-14T21:13:39Z",
             "owner": "KeeTrayTOTP",
@@ -651,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146117271,
             "language": "C#",
             "last_commit": "2026-06-21T21:24:36Z",
             "owner": "sirAndros",
@@ -665,6 +716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125638055,
             "language": "C#",
             "last_commit": "2025-11-16T00:26:13Z",
             "owner": "mihaifm",
@@ -679,6 +731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176364438,
             "language": "C#",
             "last_commit": "2026-05-03T14:54:38Z",
             "owner": "marvinweber",
@@ -693,6 +746,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9176173,
             "language": "C#",
             "last_commit": "2020-06-07T03:06:36Z",
             "owner": "dlech",
@@ -707,6 +761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52085741,
             "language": "C#",
             "last_commit": "2025-04-05T19:39:44Z",
             "owner": "cristianst85",
@@ -721,6 +776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75948452,
             "language": "C#",
             "last_commit": "2026-08-17T05:18:41Z",
             "owner": "aalbng",
@@ -735,6 +791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55971717,
             "language": "C#",
             "last_commit": "2022-12-19T20:26:29Z",
             "owner": "Alezy80",
@@ -749,6 +806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676634580,
             "language": "C#",
             "last_commit": "2026-06-28T18:13:08Z",
             "owner": "yusei36",
@@ -763,6 +821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185424686,
             "language": "C#",
             "last_commit": "2019-05-25T22:28:54Z",
             "owner": "Mikescher",
@@ -774,7 +833,7 @@
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -783,6 +842,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78456127,
             "language": "Python",
             "last_commit": "2026-06-07T16:21:48Z",
             "owner": "roddhjav",
@@ -797,6 +857,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153025342,
             "language": "Rust",
             "last_commit": "2024-08-17T20:39:32Z",
             "owner": "Narigo",
@@ -811,6 +872,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262435420,
             "language": "Rust",
             "last_commit": "2026-05-17T11:52:12Z",
             "owner": "Frederick888",
@@ -825,6 +887,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138426802,
             "language": "Python",
             "last_commit": "2023-03-31T08:01:31Z",
             "owner": "jsphpl",
@@ -839,6 +902,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212235663,
             "language": "Python",
             "last_commit": "2023-07-21T04:21:39Z",
             "owner": "pbkhrv",
@@ -853,6 +917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21601374,
             "language": "Java",
             "last_commit": "2018-08-29T07:06:37Z",
             "owner": "dvorka",
@@ -867,6 +932,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607687384,
             "language": "Kotlin",
             "last_commit": "2026-06-27T17:19:56Z",
             "owner": "aivanovski",
@@ -881,6 +947,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153038635,
             "language": "Go",
             "last_commit": "2026-08-05T13:35:32Z",
             "owner": "nikicat",
@@ -895,6 +962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894605785,
             "language": "Rust",
             "last_commit": "2026-08-16T14:46:11Z",
             "owner": "Dracks",
@@ -909,6 +977,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742885790,
             "language": "JavaScript",
             "last_commit": "2024-01-21T22:12:06Z",
             "owner": "mojoaxel",
@@ -920,7 +989,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -929,11 +998,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2997204,
             "language": "C",
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13506
+            "stars": 13512
           }
         },
         {
@@ -943,6 +1013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45019001,
             "language": "C++",
             "last_commit": "2015-11-17T04:12:25Z",
             "owner": "denandz",
@@ -957,6 +1028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63014440,
             "language": "C#",
             "last_commit": "2020-11-18T18:35:21Z",
             "owner": "GhostPack",
@@ -971,6 +1043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54858268,
             "language": "C",
             "last_commit": "2018-07-26T13:19:28Z",
             "owner": "devio",
@@ -985,6 +1058,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132629150,
             "language": "C#",
             "last_commit": "2020-12-11T21:54:57Z",
             "owner": "holly-hacker",
@@ -996,7 +1070,7 @@
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1005,6 +1079,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47929285,
             "language": "Java",
             "last_commit": "2026-03-17T18:19:16Z",
             "owner": "jorabin",
@@ -1019,6 +1094,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122134291,
             "language": "HTML",
             "last_commit": "2020-01-21T09:26:22Z",
             "owner": "keepassxreboot",
@@ -1031,7 +1107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:21:04.616Z",
+    "last_updated": "2026-08-19T11:20:22.179Z",
     "original_repository": "lgg/awesome-keepass",
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
     "enhanced_repository": "enhansome/enhansome-keepass",
