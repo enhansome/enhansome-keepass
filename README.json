@@ -367,7 +367,7 @@
                 "last_commit": "2021-07-27T07:38:10Z",
                 "owner": "pfn",
                 "repo": "passifox",
-                "stars": 896
+                "stars": 895
               }
             },
             {
@@ -1107,8 +1107,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:20:22.179Z",
+    "last_updated": "2026-08-19T12:34:33.518Z",
     "original_repository": "lgg/awesome-keepass",
+    "original_repository_id": 107390084,
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
     "enhanced_repository": "enhansome/enhansome-keepass",
     "enhanced_repository_description": null,

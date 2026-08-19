@@ -70,7 +70,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 ### Browser Extensions
 
 * [KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser) ⭐ 2,316 | 🐛 205 | 🌐 JavaScript | 📅 2026-08-18 - Browser extension for using KeePassXC with Chrome and Firefox.
-* [passifox](https://github.com/pfn/passifox) ⭐ 896 | 🐛 396 | 🌐 JavaScript | 📅 2021-07-27 - Browser extension for filling forms from KeePass through KeePassHTTP.
+* [passifox](https://github.com/pfn/passifox) ⭐ 895 | 🐛 396 | 🌐 JavaScript | 📅 2021-07-27 - Browser extension for filling forms from KeePass through KeePassHTTP.
 * [Kee](https://github.com/kee-org/browser-addon) ⭐ 475 | 🐛 25 | 🌐 TypeScript | 📅 2025-07-23 - Browser add-on for linking Firefox and Chrome to Kee Vault or KeePass.
 * [keepass-chrome](https://github.com/btd/keepass-chrome) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-13 - Proof-of-concept extension for loading KDBX files and managing passwords.
 
