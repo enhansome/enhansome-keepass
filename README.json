@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-12T19:03:37Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28480
+                "stars": 28485
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12980
+                "stars": 12982
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 203756716,
                 "language": "Dart",
-                "last_commit": "2026-08-21T11:19:36Z",
+                "last_commit": "2026-08-22T09:07:01Z",
                 "owner": "authpass",
                 "repo": "authpass",
                 "stars": 2765
@@ -151,7 +151,7 @@
                 "last_commit": "2025-05-07T13:16:04Z",
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6854
+                "stars": 6855
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-23T20:38:25Z",
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1669
+                "stars": 1673
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12980
+                "stars": 12982
               }
             },
             {
@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 107244490,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T18:43:53Z",
+                "last_commit": "2026-08-22T11:10:12Z",
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7148
+                "stars": 7156
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2026-08-20T20:10:44Z",
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6193
+                "stars": 6194
               }
             },
             {
@@ -300,7 +300,7 @@
                 "last_commit": "2025-04-20T22:09:09Z",
                 "owner": "bpellin",
                 "repo": "keepassdroid",
-                "stars": 1428
+                "stars": 1427
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2026-08-18T14:12:02Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2317
+                "stars": 2318
               }
             },
             {
@@ -547,7 +547,7 @@
             "archived": false,
             "id": 51147726,
             "language": "Rust",
-            "last_commit": "2026-08-15T19:32:58Z",
+            "last_commit": "2026-08-21T18:52:12Z",
             "owner": "sseemayer",
             "repo": "keepass-rs",
             "stars": 170
@@ -676,7 +676,7 @@
             "last_commit": "2024-07-06T01:15:15Z",
             "owner": "dlech",
             "repo": "KeeAgent",
-            "stars": 567
+            "stars": 566
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2026-06-07T16:21:48Z",
             "owner": "roddhjav",
             "repo": "pass-import",
-            "stars": 911
+            "stars": 912
           }
         },
         {
@@ -877,7 +877,7 @@
             "last_commit": "2026-05-17T11:52:12Z",
             "owner": "Frederick888",
             "repo": "git-credential-keepassxc",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -964,7 +964,7 @@
             "archived": false,
             "id": 894605785,
             "language": "Rust",
-            "last_commit": "2026-08-19T16:54:23Z",
+            "last_commit": "2026-08-22T05:48:42Z",
             "owner": "Dracks",
             "repo": "keepass-2-file",
             "stars": 8
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13522
+            "stars": 13527
           }
         },
         {
@@ -1107,7 +1107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:20:28.907Z",
+    "last_updated": "2026-08-22T11:16:07.259Z",
     "original_repository": "lgg/awesome-keepass",
     "original_repository_id": 107390084,
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
