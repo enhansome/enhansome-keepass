@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-12T19:03:37Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28485
+                "stars": 28506
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12982
+                "stars": 12985
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T09:07:01Z",
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2765
+                "stars": 2766
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-06T23:54:57Z",
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 487
+                "stars": 488
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2025-05-07T13:16:04Z",
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6855
+                "stars": 6856
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-23T20:38:25Z",
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1673
+                "stars": 1674
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-07-17T14:03:41Z",
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1452
+                "stars": 1453
               }
             }
           ],
@@ -203,7 +203,7 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12982
+                "stars": 12985
               }
             },
             {
@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 107244490,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T11:10:12Z",
+                "last_commit": "2026-08-23T10:43:34Z",
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7156
+                "stars": 7163
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2026-08-20T20:10:44Z",
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6194
+                "stars": 6197
               }
             },
             {
@@ -431,7 +431,7 @@
                 "archived": false,
                 "id": 120565860,
                 "language": "Python",
-                "last_commit": "2026-08-15T00:15:44Z",
+                "last_commit": "2026-08-23T00:27:34Z",
                 "owner": "firecat53",
                 "repo": "keepmenu",
                 "stars": 222
@@ -505,7 +505,7 @@
             "last_commit": "2026-08-09T21:22:03Z",
             "owner": "libkeepass",
             "repo": "pykeepass",
-            "stars": 504
+            "stars": 505
           }
         },
         {
@@ -691,7 +691,7 @@
             "last_commit": "2026-08-14T21:13:39Z",
             "owner": "KeeTrayTOTP",
             "repo": "KeeTrayTOTP",
-            "stars": 509
+            "stars": 510
           }
         },
         {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13527
+            "stars": 13526
           }
         },
         {
@@ -1107,7 +1107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:16:07.259Z",
+    "last_updated": "2026-08-23T11:16:35.951Z",
     "original_repository": "lgg/awesome-keepass",
     "original_repository_id": 107390084,
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
