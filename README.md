@@ -24,7 +24,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Cross-platform Clients
 
-* [KeePassXC](https://keepassxc.org/) - Cross-platform community fork of KeePass. ([source](https://github.com/keepassxreboot/keepassxc) ⭐ 28,520 | 🐛 897 | 🌐 C++ | 📅 2026-08-24)
+* [KeePassXC](https://keepassxc.org/) - Cross-platform community fork of KeePass. ([source](https://github.com/keepassxreboot/keepassxc) ⭐ 28,524 | 🐛 898 | 🌐 C++ | 📅 2026-08-24)
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass. ([source](https://github.com/keeweb/keeweb) ⭐ 12,988 | 🐛 440 | 🌐 HTML | 📅 2026-05-08)
 * [AuthPass](https://github.com/authpass/authpass) ⭐ 2,767 | 🐛 165 | 🌐 Dart | 📅 2026-08-22 - Password manager based on Flutter for all platforms with KeePass 2.x compatibility.
 * [OneKeePass](https://github.com/OneKeePass/desktop) ⭐ 488 | 🐛 6 | 🌐 Clojure | 📅 2026-08-06 - Secure password manager for macOS, Linux, and Windows.
@@ -61,7 +61,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Android Clients
 
-* [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - KeePass password manager for Android. ([source](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,170 | 🐛 556 | 🌐 Kotlin | 📅 2026-08-23)
+* [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - KeePass password manager for Android. ([source](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,171 | 🐛 556 | 🌐 Kotlin | 📅 2026-08-23)
 * [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password manager app for Android. ([source](https://github.com/PhilippC/keepass2android) ⭐ 6,200 | 🐛 1,163 | 🌐 C# | 📅 2026-08-20)
 * [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - KeePass implementation for Android. ([source](https://github.com/bpellin/keepassdroid) ⭐ 1,427 | 🐛 324 | 🌐 Java | 📅 2025-04-20)
 * [KeePassVault](https://play.google.com/store/apps/details?id=com.ivanovsky.passnotes) - KeePass password manager for Android. ([source](https://github.com/aivanovski/keepassvault) ⭐ 116 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-19)
@@ -127,7 +127,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ## Security
 
-* [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) ⭐ 13,533 | 🐛 513 | 🌐 C | 📅 2026-08-01 - Tool for extracting KeePass database hashes for John the Ripper and Hashcat.
+* [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) ⭐ 13,534 | 🐛 513 | 🌐 C | 📅 2026-08-01 - Tool for extracting KeePass database hashes for John the Ripper and Hashcat.
 * [KeeFarce](https://github.com/denandz/KeeFarce) ⭐ 1,029 | 🐛 4 | 🌐 C++ | 📅 2015-11-17 - Tool for extracting passwords from KeePass 2.x databases directly from memory.
 * [KeeThief](https://github.com/GhostPack/KeeThief) ⭐ 957 | 🐛 1 | 🌐 C# | 📅 2020-11-18 - Tool for extracting KeePass 2.x key material from memory and enumerating KeePass trigger-system behavior.
 * [mod0keecrack](https://github.com/devio/mod0keecrack) ⭐ 132 | 🐛 2 | 🌐 C | 📅 2018-07-26 - KeePass 2 database master-password cracker.
