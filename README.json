@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 52729242,
                 "language": "C++",
-                "last_commit": "2026-08-24T03:45:33Z",
+                "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28524
+                "stars": 28529
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-06T23:54:57Z",
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 488
+                "stars": 489
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2025-05-07T13:16:04Z",
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6856
+                "stars": 6855
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-23T20:38:25Z",
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1674
+                "stars": 1673
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-23T10:43:34Z",
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7171
+                "stars": 7175
               }
             },
             {
@@ -349,10 +349,10 @@
                 "archived": false,
                 "id": 115543662,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T14:12:02Z",
+                "last_commit": "2026-08-25T05:51:20Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2320
+                "stars": 2319
               }
             },
             {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13534
+            "stars": 13535
           }
         },
         {
@@ -1107,7 +1107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:13.506Z",
+    "last_updated": "2026-08-25T06:16:23.628Z",
     "original_repository": "lgg/awesome-keepass",
     "original_repository_id": 107390084,
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
