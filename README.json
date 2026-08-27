@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28541
+                "stars": 28557
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12986
+                "stars": 12988
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-06T23:54:57Z",
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 489
+                "stars": 490
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-23T20:38:25Z",
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1673
+                "stars": 1674
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-07-17T14:03:41Z",
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1452
+                "stars": 1454
               }
             }
           ],
@@ -203,7 +203,7 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12986
+                "stars": 12988
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 703828597,
                 "language": "Rust",
-                "last_commit": "2026-08-26T09:04:16Z",
+                "last_commit": "2026-08-26T19:08:17Z",
                 "owner": "lixmal",
                 "repo": "keepass4web-rs",
                 "stars": 52
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-26T11:14:04Z",
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7182
+                "stars": 7184
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2026-08-20T20:10:44Z",
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6202
+                "stars": 6205
               }
             },
             {
@@ -349,7 +349,7 @@
                 "archived": false,
                 "id": 115543662,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T06:12:02Z",
+                "last_commit": "2026-08-26T20:11:35Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
                 "stars": 2320
@@ -535,7 +535,7 @@
             "last_commit": "2026-03-17T18:19:16Z",
             "owner": "jorabin",
             "repo": "KeePassJava2",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13540
+            "stars": 13548
           }
         },
         {
@@ -1084,7 +1084,7 @@
             "last_commit": "2026-03-17T18:19:16Z",
             "owner": "jorabin",
             "repo": "KeePassJava2",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -1107,9 +1107,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:24:10.234Z",
-    "original_repository": "lgg/awesome-keepass",
-    "original_repository_id": 107390084,
+    "last_updated": "2026-08-27T11:46:58.008Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 107390084,
+      "language": null,
+      "last_commit": "2026-07-23T17:28:49Z",
+      "owner": "lgg",
+      "repo": "awesome-keepass",
+      "stars": 563
+    },
     "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
     "enhanced_repository": "enhansome/enhansome-keepass",
     "enhanced_repository_description": null,
