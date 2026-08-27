@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28557
+                "stars": 28568
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2025-05-07T13:16:04Z",
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6854
+                "stars": 6853
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-23T20:38:25Z",
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1674
+                "stars": 1675
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 703828597,
                 "language": "Rust",
-                "last_commit": "2026-08-26T19:08:17Z",
+                "last_commit": "2026-08-27T19:40:35Z",
                 "owner": "lixmal",
                 "repo": "keepass4web-rs",
                 "stars": 52
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-26T11:14:04Z",
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7184
+                "stars": 7187
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2026-08-26T20:11:35Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2320
+                "stars": 2321
               }
             },
             {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13548
+            "stars": 13550
           }
         },
         {
@@ -1063,7 +1063,7 @@
             "last_commit": "2020-12-11T21:54:57Z",
             "owner": "holly-hacker",
             "repo": "KeePassHax",
-            "stars": 87
+            "stars": 88
           }
         }
       ],
@@ -1107,7 +1107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:58.008Z",
+    "last_updated": "2026-08-27T20:53:05.475Z",
     "original_repository_info": {
       "archived": false,
       "id": 107390084,
