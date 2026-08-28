@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28568
-              }
+                "stars": 28584
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12988
-              }
+                "stars": 12989
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 203756716,
                 "language": "Dart",
-                "last_commit": "2026-08-25T11:47:33Z",
+                "last_commit": "2026-08-28T12:27:24Z",
                 "owner": "authpass",
                 "repo": "authpass",
                 "stars": 2767
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-08-06T23:54:57Z",
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 490
-              }
+                "stars": 488
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "dlech",
                 "repo": "KeePass2.x",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "IlyaPomaskin",
                 "repo": "KeePass-electron",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             }
           ],
           "description": null,
@@ -115,7 +121,8 @@
                 "owner": "wismna",
                 "repo": "ModernKeePass",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "evpobr",
                 "repo": "KeePass4D",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "MacPass",
                 "repo": "MacPass",
                 "stars": 6853
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -166,8 +175,9 @@
                 "last_commit": "2026-05-23T20:38:25Z",
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1675
-              }
+                "stars": 1679
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
                 "stars": 1454
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             }
           ],
           "description": null,
@@ -203,8 +214,9 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12988
-              }
+                "stars": 12989
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "gesellix",
                 "repo": "keepass-node",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "kee-org",
                 "repo": "keevault",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "lixmal",
                 "repo": "keepass4web-rs",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             }
           ],
           "description": null,
@@ -270,8 +285,9 @@
                 "last_commit": "2026-08-26T11:14:04Z",
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7187
-              }
+                "stars": 7188
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -285,8 +301,9 @@
                 "last_commit": "2026-08-20T20:10:44Z",
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6205
-              }
+                "stars": 6207
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "bpellin",
                 "repo": "keepassdroid",
                 "stars": 1427
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "aivanovski",
                 "repo": "keepassvault",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "sorz",
                 "repo": "TinyKeePass",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             }
           ],
           "description": null,
@@ -352,8 +372,9 @@
                 "last_commit": "2026-08-26T20:11:35Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2321
-              }
+                "stars": 2318
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "pfn",
                 "repo": "passifox",
                 "stars": 895
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "kee-org",
                 "repo": "browser-addon",
                 "stars": 475
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "btd",
                 "repo": "keepass-chrome",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             }
           ],
           "description": null,
@@ -420,7 +444,8 @@
                 "owner": "Evidlo",
                 "repo": "passhole",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -435,7 +460,8 @@
                 "owner": "firecat53",
                 "repo": "keepmenu",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -450,7 +476,8 @@
                 "owner": "gkardava",
                 "repo": "WinPass",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -465,7 +492,8 @@
                 "owner": "DannyGB",
                 "repo": "KeePassTouch",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "luelista",
                 "repo": "kdbxviewer",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:18:54.617Z"
             }
           ],
           "description": null,
@@ -506,7 +535,8 @@
             "owner": "libkeepass",
             "repo": "pykeepass",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -521,7 +551,8 @@
             "owner": "keeweb",
             "repo": "kdbxweb",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -535,8 +566,9 @@
             "last_commit": "2026-03-17T18:19:16Z",
             "owner": "jorabin",
             "repo": "KeePassJava2",
-            "stars": 283
-          }
+            "stars": 284
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -547,11 +579,12 @@
             "archived": false,
             "id": 51147726,
             "language": "Rust",
-            "last_commit": "2026-08-21T18:52:12Z",
+            "last_commit": "2026-08-28T18:35:40Z",
             "owner": "sseemayer",
             "repo": "keepass-rs",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -566,7 +599,8 @@
             "owner": "snapserv",
             "repo": "keepass.io",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -581,7 +615,8 @@
             "owner": "cternes",
             "repo": "openkeepass",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -596,7 +631,8 @@
             "owner": "MacPass",
             "repo": "KeePassKit",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -611,7 +647,8 @@
             "owner": "keemobile",
             "repo": "kotpass",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         }
       ],
       "title": "API Libraries"
@@ -632,7 +669,8 @@
             "owner": "pfn",
             "repo": "keepasshttp",
             "stars": 2037
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -647,7 +685,8 @@
             "owner": "Kyrodan",
             "repo": "KeeAnywhere",
             "stars": 751
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -662,7 +701,8 @@
             "owner": "kee-org",
             "repo": "keepassrpc",
             "stars": 674
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -677,7 +717,8 @@
             "owner": "dlech",
             "repo": "KeeAgent",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -692,7 +733,24 @@
             "owner": "KeeTrayTOTP",
             "repo": "KeeTrayTOTP",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
+        },
+        {
+          "node_type": "item",
+          "title": "KeePassOTP",
+          "description": "KeePass 2 plugin for generating TOTP, HOTP, Steam, and legacy Yandex OTP codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271611106,
+            "language": "C#",
+            "last_commit": "2026-06-27T06:28:16Z",
+            "owner": "Rookiestyle",
+            "repo": "KeePassOTP",
+            "stars": 510
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -707,7 +765,8 @@
             "owner": "sirAndros",
             "repo": "KeePassWinHello",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -722,7 +781,8 @@
             "owner": "mihaifm",
             "repo": "HIBPOfflineCheck",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -737,7 +797,8 @@
             "owner": "marvinweber",
             "repo": "KPSimpleBackup",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -752,7 +813,8 @@
             "owner": "dlech",
             "repo": "Keebuntu",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -767,7 +829,8 @@
             "owner": "cristianst85",
             "repo": "QuickConnectPlugin",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -782,7 +845,8 @@
             "owner": "aalbng",
             "repo": "AdvancedConnectPlugin",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -797,7 +861,8 @@
             "owner": "Alezy80",
             "repo": "SIC2KeePass",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -812,7 +877,8 @@
             "owner": "yusei36",
             "repo": "FluentPassFinder",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -827,7 +893,8 @@
             "owner": "Mikescher",
             "repo": "KeePassQuery",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         }
       ],
       "title": "Plugins"
@@ -848,7 +915,8 @@
             "owner": "roddhjav",
             "repo": "pass-import",
             "stars": 912
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -863,7 +931,8 @@
             "owner": "Narigo",
             "repo": "keepass-diff",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -878,7 +947,8 @@
             "owner": "Frederick888",
             "repo": "git-credential-keepassxc",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -893,7 +963,8 @@
             "owner": "jsphpl",
             "repo": "enpass-to-keepass",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -908,7 +979,8 @@
             "owner": "pbkhrv",
             "repo": "ulauncher-keepassxc",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -923,7 +995,8 @@
             "owner": "dvorka",
             "repo": "keepass2-to-keepassx",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -938,7 +1011,8 @@
             "owner": "aivanovski",
             "repo": "kp-diff",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -953,7 +1027,8 @@
             "owner": "nikicat",
             "repo": "secrets-dispatcher",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -968,7 +1043,8 @@
             "owner": "Dracks",
             "repo": "keepass-2-file",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -983,7 +1059,8 @@
             "owner": "mojoaxel",
             "repo": "keepass-print",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         }
       ],
       "title": "Tools"
@@ -1003,8 +1080,9 @@
             "last_commit": "2026-08-01T22:19:56Z",
             "owner": "openwall",
             "repo": "john",
-            "stars": 13550
-          }
+            "stars": 13558
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -1019,7 +1097,8 @@
             "owner": "denandz",
             "repo": "KeeFarce",
             "stars": 1029
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -1034,7 +1113,8 @@
             "owner": "GhostPack",
             "repo": "KeeThief",
             "stars": 957
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -1049,7 +1129,8 @@
             "owner": "devio",
             "repo": "mod0keecrack",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -1064,7 +1145,8 @@
             "owner": "holly-hacker",
             "repo": "KeePassHax",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         }
       ],
       "title": "Security"
@@ -1084,8 +1166,9 @@
             "last_commit": "2026-03-17T18:19:16Z",
             "owner": "jorabin",
             "repo": "KeePassJava2",
-            "stars": 283
-          }
+            "stars": 284
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         },
         {
           "node_type": "item",
@@ -1100,24 +1183,25 @@
             "owner": "keepassxreboot",
             "repo": "keepassxc-specs",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
         }
       ],
       "title": "Docs and Articles"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:53:05.475Z",
+    "last_updated": "2026-08-28T21:18:54.617Z",
     "original_repository_info": {
       "archived": false,
       "id": 107390084,
       "language": null,
-      "last_commit": "2026-07-23T17:28:49Z",
+      "last_commit": "2026-08-28T07:03:02Z",
       "owner": "lgg",
       "repo": "awesome-keepass",
       "stars": 563
     },
-    "original_repository_sha": "cd6a0d28839806c863b0ccd5db48ab3731c1c61c",
+    "original_repository_sha": "3f205303b0661476b9c22248fc78837522e397b2",
     "enhanced_repository": "enhansome/enhansome-keepass",
     "enhanced_repository_description": null,
     "title": "Awesome KeePass Projects with stars"
