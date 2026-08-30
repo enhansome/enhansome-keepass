@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T16:37:46Z",
-                "open_issues": 900,
+                "open_issues": 902,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28595,
+                "stars": 28610,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 440,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12989,
+                "stars": 12988,
                 "topics": [
                   "electron",
                   "javascript",
@@ -84,7 +84,7 @@
                 "open_issues": 165,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2768,
+                "stars": 2767,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -261,7 +261,7 @@
                 "open_issues": 294,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6853,
+                "stars": 6854,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -288,7 +288,7 @@
                 "language": "Swift",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-23T20:38:25Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "keepassium",
                 "repo": "KeePassium",
                 "stars": 1679,
@@ -359,7 +359,7 @@
                 "open_issues": 440,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12989,
+                "stars": 12988,
                 "topics": [
                   "electron",
                   "javascript",
@@ -442,7 +442,7 @@
                 "open_issues": 1,
                 "owner": "lixmal",
                 "repo": "keepass4web-rs",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -466,21 +466,26 @@
                 "id": 107244490,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T11:05:48Z",
-                "open_issues": 523,
+                "last_commit": "2026-08-29T21:53:51Z",
+                "open_issues": 527,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7192,
+                "stars": 7200,
                 "topics": [
                   "android",
                   "android-application",
+                  "autofill",
+                  "credential-manager",
                   "fingerprint",
                   "keepass",
                   "keepass-dx",
                   "keepassdx",
                   "material",
                   "material-design",
+                  "passkey",
+                  "passkeys",
                   "password-manager",
+                  "prf",
                   "vault"
                 ]
               },
@@ -610,7 +615,7 @@
                 "open_issues": 205,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2318,
+                "stars": 2319,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -903,7 +908,7 @@
             "open_issues": 10,
             "owner": "jorabin",
             "repo": "KeePassJava2",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "kdb",
               "kdbx",
@@ -924,8 +929,8 @@
             "id": 51147726,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:45:37Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-29T21:34:10Z",
+            "open_issues": 10,
             "owner": "sseemayer",
             "repo": "keepass-rs",
             "stars": 170,
@@ -999,7 +1004,7 @@
             "language": "Objective-C",
             "license": "NOASSERTION",
             "last_commit": "2025-11-13T20:47:41Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "MacPass",
             "repo": "KeePassKit",
             "stars": 135,
@@ -1180,8 +1185,8 @@
             "id": 271611106,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-06-27T06:28:16Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-29T16:45:02Z",
+            "open_issues": 0,
             "owner": "Rookiestyle",
             "repo": "KeePassOTP",
             "stars": 510,
@@ -1438,7 +1443,7 @@
             "open_issues": 21,
             "owner": "roddhjav",
             "repo": "pass-import",
-            "stars": 912,
+            "stars": 914,
             "topics": [
               "import",
               "importer",
@@ -1716,7 +1721,7 @@
             "open_issues": 513,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13563,
+            "stars": 13568,
             "topics": [
               "assembler",
               "c",
@@ -1775,7 +1780,7 @@
             "open_issues": 1,
             "owner": "GhostPack",
             "repo": "KeeThief",
-            "stars": 957,
+            "stars": 958,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1849,7 +1854,7 @@
             "open_issues": 10,
             "owner": "jorabin",
             "repo": "KeePassJava2",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "kdb",
               "kdbx",
@@ -1884,7 +1889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:25:23.129Z",
+    "last_updated": "2026-08-30T15:09:08.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
