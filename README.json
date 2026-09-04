@@ -17,11 +17,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T15:12:40Z",
-                "open_issues": 906,
+                "last_commit": "2026-09-04T10:28:50Z",
+                "open_issues": 907,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28664,
+                "stars": 28681,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -84,7 +84,7 @@
                 "open_issues": 165,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2770,
+                "stars": 2771,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -257,11 +257,11 @@
                 "id": 5129986,
                 "language": "Objective-C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T09:56:02Z",
-                "open_issues": 295,
+                "last_commit": "2026-09-04T12:34:27Z",
+                "open_issues": 294,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6855,
+                "stars": 6854,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -291,7 +291,7 @@
                 "open_issues": 93,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1680,
+                "stars": 1681,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -467,10 +467,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-01T12:25:23Z",
-                "open_issues": 527,
+                "open_issues": 529,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7228,
+                "stars": 7234,
                 "topics": [
                   "android",
                   "android-application",
@@ -507,7 +507,7 @@
                 "open_issues": 1170,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6206,
+                "stars": 6210,
                 "topics": [
                   "android",
                   "keepass",
@@ -611,8 +611,8 @@
                 "id": 115543662,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T06:08:16Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-04T08:58:11Z",
+                "open_issues": 200,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
                 "stars": 2322,
@@ -933,7 +933,7 @@
             "open_issues": 9,
             "owner": "sseemayer",
             "repo": "keepass-rs",
-            "stars": 171,
+            "stars": 170,
             "topics": [
               "kdbx-database",
               "keepass",
@@ -1721,7 +1721,7 @@
             "open_issues": 514,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13586,
+            "stars": 13592,
             "topics": [
               "assembler",
               "c",
@@ -1801,7 +1801,7 @@
             "open_issues": 2,
             "owner": "devio",
             "repo": "mod0keecrack",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1889,7 +1889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:50:35.247Z",
+    "last_updated": "2026-09-04T14:43:25.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
@@ -1901,7 +1901,7 @@
       "open_issues": 3,
       "owner": "lgg",
       "repo": "awesome-keepass",
-      "stars": 566,
+      "stars": 567,
       "topics": [
         "awesome",
         "awesome-list",
