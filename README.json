@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T10:55:38Z",
-                "open_issues": 909,
+                "open_issues": 910,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28709,
+                "stars": 28717,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -84,7 +84,7 @@
                 "open_issues": 165,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2781,
+                "stars": 2784,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -126,7 +126,7 @@
                 "open_issues": 6,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 491,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -228,7 +228,7 @@
                 "open_issues": 0,
                 "owner": "evpobr",
                 "repo": "KeePass4D",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "delphi",
                   "password-manager",
@@ -261,7 +261,7 @@
                 "open_issues": 294,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6861,
+                "stars": 6863,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -291,7 +291,7 @@
                 "open_issues": 94,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1683,
+                "stars": 1686,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -319,7 +319,7 @@
                 "open_issues": 227,
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1456,
+                "stars": 1457,
                 "topics": [
                   "cocoa",
                   "cryptography",
@@ -470,7 +470,7 @@
                 "open_issues": 533,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7252,
+                "stars": 7261,
                 "topics": [
                   "android",
                   "android-application",
@@ -504,10 +504,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-06T11:52:11Z",
-                "open_issues": 1169,
+                "open_issues": 1171,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6214,
+                "stars": 6217,
                 "topics": [
                   "android",
                   "keepass",
@@ -555,7 +555,7 @@
                 "open_issues": 10,
                 "owner": "aivanovski",
                 "repo": "keepassvault",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "android",
                   "diff",
@@ -1074,7 +1074,7 @@
             "open_issues": 209,
             "owner": "pfn",
             "repo": "keepasshttp",
-            "stars": 2038,
+            "stars": 2039,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 7,
             "owner": "kee-org",
             "repo": "keepassrpc",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "keepass",
               "keepassrpc-plugin"
@@ -1149,6 +1149,33 @@
         },
         {
           "node_type": "item",
+          "title": "KeePassOTP",
+          "description": "KeePass 2 plugin for generating TOTP, HOTP, Steam, and legacy Yandex OTP codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Add OTP support (two factor authentication) to KeePass",
+            "homepage": null,
+            "id": 271611106,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T16:45:02Z",
+            "open_issues": 0,
+            "owner": "Rookiestyle",
+            "repo": "KeePassOTP",
+            "stars": 511,
+            "topics": [
+              "keepass",
+              "keepass-plugin",
+              "keepass2",
+              "otp",
+              "plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T21:18:54.617Z"
+        },
+        {
+          "node_type": "item",
           "title": "KeeTrayTOTP",
           "description": "KeePass 2.x plugin for TOTP codes, including Steam TOTP support.",
           "children": [],
@@ -1169,33 +1196,6 @@
               "keepass-plugin",
               "keepass2",
               "totp"
-            ]
-          },
-          "first_seen": "2026-08-28T21:18:54.617Z"
-        },
-        {
-          "node_type": "item",
-          "title": "KeePassOTP",
-          "description": "KeePass 2 plugin for generating TOTP, HOTP, Steam, and legacy Yandex OTP codes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Add OTP support (two factor authentication) to KeePass",
-            "homepage": null,
-            "id": 271611106,
-            "language": "C#",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-29T16:45:02Z",
-            "open_issues": 0,
-            "owner": "Rookiestyle",
-            "repo": "KeePassOTP",
-            "stars": 510,
-            "topics": [
-              "keepass",
-              "keepass-plugin",
-              "keepass2",
-              "otp",
-              "plugin"
             ]
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1440,7 +1440,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-06-07T16:21:48Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "roddhjav",
             "repo": "pass-import",
             "stars": 915,
@@ -1665,7 +1665,7 @@
             "id": 894605785,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T19:40:36Z",
+            "last_commit": "2026-09-08T14:49:04Z",
             "open_issues": 12,
             "owner": "Dracks",
             "repo": "keepass-2-file",
@@ -1721,7 +1721,7 @@
             "open_issues": 514,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13605,
+            "stars": 13609,
             "topics": [
               "assembler",
               "c",
@@ -1889,7 +1889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:15:16.391Z",
+    "last_updated": "2026-09-08T14:51:13.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
