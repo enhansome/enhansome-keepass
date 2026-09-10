@@ -17,11 +17,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T10:55:38Z",
+                "last_commit": "2026-09-10T13:02:53Z",
                 "open_issues": 909,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28734,
+                "stars": 28753,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12991,
+                "stars": 12990,
                 "topics": [
                   "electron",
                   "javascript",
@@ -84,7 +84,7 @@
                 "open_issues": 165,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2784,
+                "stars": 2786,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -126,7 +126,7 @@
                 "open_issues": 6,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 493,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -172,6 +172,41 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
+            },
+            {
+              "node_type": "item",
+              "title": "KeeVault",
+              "description": "Cross-platform password manager built with Flutter, KeePass compatible (KDBX 3.x/4.x) with WebDAV sync, TOTP, and biometric unlock.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free and open-source KeePass-compatible password manager for Windows, Linux, and Android.",
+                "homepage": null,
+                "id": 1264909992,
+                "language": "Dart",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-02T05:22:25Z",
+                "open_issues": 0,
+                "owner": "lyj404",
+                "repo": "keestone",
+                "stars": 6,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "flutter",
+                  "flutter-app",
+                  "kdbx",
+                  "kdbx4",
+                  "keepass",
+                  "linux",
+                  "password-manager",
+                  "password-vault",
+                  "totp",
+                  "webdav",
+                  "windows"
+                ]
+              },
+              "first_seen": "2026-09-10T14:44:16.783Z"
             }
           ],
           "description": null,
@@ -288,10 +323,10 @@
                 "language": "Swift",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-23T20:38:25Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1688,
+                "stars": 1689,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -319,7 +354,7 @@
                 "open_issues": 227,
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1458,
+                "stars": 1459,
                 "topics": [
                   "cocoa",
                   "cryptography",
@@ -359,7 +394,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12991,
+                "stars": 12990,
                 "topics": [
                   "electron",
                   "javascript",
@@ -438,8 +473,8 @@
                 "id": 703828597,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T06:44:17Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-10T06:43:05Z",
+                "open_issues": 13,
                 "owner": "lixmal",
                 "repo": "keepass4web-rs",
                 "stars": 53,
@@ -466,11 +501,11 @@
                 "id": 107244490,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T16:03:55Z",
-                "open_issues": 537,
+                "last_commit": "2026-09-10T14:31:11Z",
+                "open_issues": 536,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7262,
+                "stars": 7268,
                 "topics": [
                   "android",
                   "android-application",
@@ -503,11 +538,11 @@
                 "id": 104254445,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T11:52:11Z",
+                "last_commit": "2026-09-09T17:17:21Z",
                 "open_issues": 1171,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6220,
+                "stars": 6222,
                 "topics": [
                   "android",
                   "keepass",
@@ -611,8 +646,8 @@
                 "id": 115543662,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T06:21:12Z",
-                "open_issues": 200,
+                "last_commit": "2026-09-10T14:10:34Z",
+                "open_issues": 196,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
                 "stars": 2325,
@@ -726,7 +761,7 @@
                 "open_issues": 11,
                 "owner": "Evidlo",
                 "repo": "passhole",
-                "stars": 233,
+                "stars": 230,
                 "topics": [
                   "keepass",
                   "password-manager",
@@ -1163,7 +1198,7 @@
             "open_issues": 0,
             "owner": "Rookiestyle",
             "repo": "KeePassOTP",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "keepass",
               "keepass-plugin",
@@ -1216,7 +1251,7 @@
             "open_issues": 67,
             "owner": "sirAndros",
             "repo": "KeePassWinHello",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "biometrics",
               "keepass",
@@ -1271,7 +1306,7 @@
             "open_issues": 24,
             "owner": "marvinweber",
             "repo": "KPSimpleBackup",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "keepass",
               "keepass-plugin",
@@ -1317,7 +1352,7 @@
             "open_issues": 10,
             "owner": "cristianst85",
             "repo": "QuickConnectPlugin",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "esxi",
               "keepass",
@@ -1348,7 +1383,7 @@
             "open_issues": 0,
             "owner": "aalbng",
             "repo": "AdvancedConnectPlugin",
-            "stars": 63,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1500,7 +1535,7 @@
             "open_issues": 14,
             "owner": "Frederick888",
             "repo": "git-credential-keepassxc",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "cli",
               "command-line",
@@ -1665,7 +1700,7 @@
             "id": 894605785,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T02:14:17Z",
+            "last_commit": "2026-09-10T02:28:10Z",
             "open_issues": 12,
             "owner": "Dracks",
             "repo": "keepass-2-file",
@@ -1721,7 +1756,7 @@
             "open_issues": 515,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13614,
+            "stars": 13612,
             "topics": [
               "assembler",
               "c",
@@ -1889,7 +1924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:59:19.831Z",
+    "last_updated": "2026-09-10T14:44:16.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
@@ -1897,8 +1932,8 @@
       "id": 107390084,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-28T07:03:02Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-10T03:10:01Z",
+      "open_issues": 2,
       "owner": "lgg",
       "repo": "awesome-keepass",
       "stars": 566,
@@ -1925,7 +1960,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "3f205303b0661476b9c22248fc78837522e397b2",
+    "original_repository_sha": "c6e9ad153459fd0f482a9951e62af7a92d1af58b",
     "enhanced_repository": "enhansome/enhansome-keepass",
     "enhanced_repository_description": null,
     "title": "Awesome KeePass Projects with stars"
