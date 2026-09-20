@@ -17,11 +17,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T06:22:22Z",
-                "open_issues": 900,
+                "last_commit": "2026-09-19T23:26:56Z",
+                "open_issues": 897,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28866,
+                "stars": 28883,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12995,
+                "stars": 12996,
                 "topics": [
                   "electron",
                   "javascript",
@@ -84,7 +84,7 @@
                 "open_issues": 167,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -126,7 +126,7 @@
                 "open_issues": 7,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 499,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -154,6 +154,39 @@
             },
             {
               "node_type": "item",
+              "title": "KeeVault",
+              "description": "Cross-platform password manager built with Flutter, KeePass compatible (KDBX 3.x/4.x) with WebDAV sync, TOTP, and biometric unlock.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free and open-source KeePass-compatible password manager for Windows, Linux, and Android.",
+                "homepage": null,
+                "id": 1264909992,
+                "language": "Dart",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-14T03:54:00Z",
+                "open_issues": 0,
+                "owner": "lyj404",
+                "repo": "keestone",
+                "stars": 9,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "flutter",
+                  "kdbx",
+                  "kdbx4",
+                  "keepass",
+                  "linux",
+                  "password-manager",
+                  "totp",
+                  "webdav",
+                  "windows"
+                ]
+              },
+              "first_seen": "2026-09-10T14:44:16.783Z"
+            },
+            {
+              "node_type": "item",
               "title": "KeePass Electron",
               "description": "Desktop HTML5 client for KeePass 2 databases.",
               "children": [],
@@ -172,39 +205,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
-            },
-            {
-              "node_type": "item",
-              "title": "KeeVault",
-              "description": "Cross-platform password manager built with Flutter, KeePass compatible (KDBX 3.x/4.x) with WebDAV sync, TOTP, and biometric unlock.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free and open-source KeePass-compatible password manager for Windows, Linux, and Android.",
-                "homepage": null,
-                "id": 1264909992,
-                "language": "Dart",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-14T03:54:00Z",
-                "open_issues": 0,
-                "owner": "lyj404",
-                "repo": "keestone",
-                "stars": 8,
-                "topics": [
-                  "android",
-                  "cross-platform",
-                  "flutter",
-                  "kdbx",
-                  "kdbx4",
-                  "keepass",
-                  "linux",
-                  "password-manager",
-                  "totp",
-                  "webdav",
-                  "windows"
-                ]
-              },
-              "first_seen": "2026-09-10T14:44:16.783Z"
             }
           ],
           "description": null,
@@ -291,10 +291,10 @@
                 "language": "Objective-C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T09:07:33Z",
-                "open_issues": 294,
+                "open_issues": 295,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6870,
+                "stars": 6871,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -321,10 +321,10 @@
                 "language": "Swift",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-23T20:38:25Z",
-                "open_issues": 95,
+                "open_issues": 98,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -392,7 +392,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12995,
+                "stars": 12996,
                 "topics": [
                   "electron",
                   "javascript",
@@ -500,10 +500,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-15T18:35:25Z",
-                "open_issues": 537,
+                "open_issues": 540,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7339,
+                "stars": 7342,
                 "topics": [
                   "android",
                   "android-application",
@@ -537,10 +537,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T09:40:14Z",
-                "open_issues": 1174,
+                "open_issues": 1175,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6235,
+                "stars": 6238,
                 "topics": [
                   "android",
                   "keepass",
@@ -648,7 +648,7 @@
                 "open_issues": 198,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2333,
+                "stars": 2335,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -1698,7 +1698,7 @@
             "id": 894605785,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T19:36:04Z",
+            "last_commit": "2026-09-20T10:31:15Z",
             "open_issues": 12,
             "owner": "Dracks",
             "repo": "keepass-2-file",
@@ -1754,7 +1754,7 @@
             "open_issues": 515,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13645,
+            "stars": 13651,
             "topics": [
               "assembler",
               "c",
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:07:52.360Z",
+    "last_updated": "2026-09-20T14:26:37.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
