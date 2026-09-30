@@ -24,10 +24,10 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Cross-platform Clients
 
-* [KeePassXC](https://keepassxc.org/) - Cross-platform community fork of KeePass. ([source](https://github.com/keepassxreboot/keepassxc) ⭐ 29,020 | 🐛 900 | 🌐 C++ | 📅 2026-09-23)
-* [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass. ([source](https://github.com/keeweb/keeweb) ⭐ 13,004 | 🐛 442 | 🌐 HTML | 📅 2026-05-08)
-* [AuthPass](https://github.com/authpass/authpass) ⭐ 2,793 | 🐛 168 | 🌐 Dart | 📅 2026-09-15 - Password manager based on Flutter for all platforms with KeePass 2.x compatibility.
-* [OneKeePass](https://github.com/OneKeePass/desktop) ⭐ 499 | 🐛 9 | 🌐 Clojure | 📅 2026-09-17 - Secure password manager for macOS, Linux, and Windows.
+* [KeePassXC](https://keepassxc.org/) - Cross-platform community fork of KeePass. ([source](https://github.com/keepassxreboot/keepassxc) ⭐ 29,031 | 🐛 903 | 🌐 C++ | 📅 2026-09-30)
+* [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass. ([source](https://github.com/keeweb/keeweb) ⭐ 13,005 | 🐛 441 | 🌐 HTML | 📅 2026-05-08)
+* [AuthPass](https://github.com/authpass/authpass) ⭐ 2,794 | 🐛 169 | 🌐 Dart | 📅 2026-09-15 - Password manager based on Flutter for all platforms with KeePass 2.x compatibility.
+* [OneKeePass](https://github.com/OneKeePass/desktop) ⭐ 499 | 🐛 8 | 🌐 Clojure | 📅 2026-09-30 - Secure password manager for macOS, Linux, and Windows.
 * [KeePass](https://sourceforge.net/projects/keepass/) - Official KeePass client. ([source](https://github.com/dlech/KeePass2.x) ⭐ 323 | 🐛 2 | 🌐 C# | 📅 2025-08-23)
 * [KeeVault](https://github.com/lyj404/keevault) ⭐ 9 | 🐛 0 | 🌐 Dart | 📅 2026-09-24 - Cross-platform password manager built with Flutter, KeePass compatible (KDBX 3.x/4.x) with WebDAV sync, TOTP, and biometric unlock.
 * [KeePass Electron](https://github.com/IlyaPomaskin/KeePass-electron) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-01 - Desktop HTML5 client for KeePass 2 databases.
@@ -47,7 +47,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Web Clients
 
-* [KeeWeb](https://github.com/keeweb/keeweb) ⭐ 13,004 | 🐛 442 | 🌐 HTML | 📅 2026-05-08 - Free cross-platform password manager compatible with KeePass.
+* [KeeWeb](https://github.com/keeweb/keeweb) ⭐ 13,005 | 🐛 441 | 🌐 HTML | 📅 2026-05-08 - Free cross-platform password manager compatible with KeePass.
 * [keepass-node](https://github.com/gesellix/keepass-node) ⭐ 81 | 🐛 5 | 🌐 HTML | 📅 2017-07-18 - KeePass 2 editor for Node.js with a browser frontend.
 * [Kee Vault](https://github.com/kee-org/keevault) ⭐ 72 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-06 - Web browser password manager that encrypts databases with the KeePass storage format before synchronization.
 * [keepass4web-rs](https://github.com/lixmal/keepass4web-rs) ⭐ 54 | 🐛 13 | 🌐 Rust | 📅 2026-09-24 - Rust rewrite of keepass4web.
@@ -62,15 +62,15 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Android Clients
 
-* [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - KeePass password manager for Android. ([source](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,388 | 🐛 545 | 🌐 Kotlin | 📅 2026-09-25)
-* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password manager app for Android. ([source](https://github.com/PhilippC/keepass2android) ⭐ 6,265 | 🐛 1,181 | 🌐 C# | 📅 2026-09-17)
+* [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - KeePass password manager for Android. ([source](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,397 | 🐛 544 | 🌐 Kotlin | 📅 2026-09-25)
+* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password manager app for Android. ([source](https://github.com/PhilippC/keepass2android) ⭐ 6,266 | 🐛 1,182 | 🌐 C# | 📅 2026-09-17)
 * [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - KeePass implementation for Android. ([source](https://github.com/bpellin/keepassdroid) ⭐ 1,429 | 🐛 325 | 🌐 Java | 📅 2025-04-20)
 * [KeePassVault](https://play.google.com/store/apps/details?id=com.ivanovsky.passnotes) - KeePass password manager for Android. ([source](https://github.com/aivanovski/keepassvault) ⭐ 118 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-26)
 * [TinyKeePass](https://github.com/sorz/TinyKeePass) ⭐ 49 | 🐛 14 | 🌐 Java | 📅 2021-10-18 - Simple read-only KeePass Android app written in Java and Kotlin.
 
 ### Browser Extensions
 
-* [KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser) ⭐ 2,343 | 🐛 203 | 🌐 JavaScript | 📅 2026-09-28 - Browser extension for using KeePassXC with Chrome and Firefox.
+* [KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser) ⭐ 2,346 | 🐛 203 | 🌐 JavaScript | 📅 2026-09-30 - Browser extension for using KeePassXC with Chrome and Firefox.
 * [passifox](https://github.com/pfn/passifox) ⭐ 895 | 🐛 396 | 🌐 JavaScript | 📅 2021-07-27 - Browser extension for filling forms from KeePass through KeePassHTTP.
 * [Kee](https://github.com/kee-org/browser-addon) ⭐ 476 | 🐛 25 | 🌐 TypeScript | 📅 2025-07-23 - Browser add-on for linking Firefox and Chrome to Kee Vault or KeePass.
 * [keepass-chrome](https://github.com/btd/keepass-chrome) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-13 - Proof-of-concept extension for loading KDBX files and managing passwords.
@@ -78,7 +78,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 ### Other Clients
 
 * [passhole](https://github.com/Evidlo/passhole) ⭐ 230 | 🐛 11 | 🌐 Python | 📅 2026-09-18 - Command-line password manager inspired by pass.
-* [keepmenu](https://github.com/firecat53/keepmenu) ⭐ 222 | 🐛 19 | 🌐 Python | 📅 2026-09-21 - Dmenu, Rofi, and Wofi-style frontend for auto-type and managing KeePass databases.
+* [keepmenu](https://github.com/firecat53/keepmenu) ⭐ 223 | 🐛 19 | 🌐 Python | 📅 2026-09-21 - Dmenu, Rofi, and Wofi-style frontend for auto-type and managing KeePass databases.
 * [WinPass](https://github.com/gkardava/WinPass) ⚠️ Archived - KeePass password manager client for Windows Mobile.
 * [KeePassTouch](https://github.com/DannyGB/KeePassTouch) ⭐ 19 | 🐛 20 | 🌐 C++ | 📅 2020-07-18 - Ubuntu Touch version of KeePass.
 * [kdbxviewer](https://luelista.net/kdbxviewer/) - Command-line tool for viewing KeePass 2 database files. ([source](https://github.com/luelista/kdbxviewer) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2023-12-27)
@@ -90,7 +90,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 * [pykeepass](https://github.com/libkeepass/pykeepass) ⭐ 510 | 🐛 42 | 🌐 Python | 📅 2026-08-09 - Python library for interacting with KeePass databases with KDBX3 and KDBX4 support.
 * [kdbxweb](https://github.com/keeweb/kdbxweb) ⭐ 455 | 🐛 15 | 🌐 TypeScript | 📅 2024-12-24 - High-performance TypeScript library for reading and writing KeePass 2 databases in Node.js and browsers.
 * [KeePassJava2](https://github.com/jorabin/KeePassJava2) ⭐ 287 | 🐛 16 | 🌐 Java | 📅 2026-03-17 - Java API for reading and writing KeePass 2.x databases and reading KeePass 1.x databases.
-* [keepass-rs](https://github.com/sseemayer/keepass-rs) ⭐ 173 | 🐛 13 | 🌐 Rust | 📅 2026-09-21 - Rust library for reading KeePass database files.
+* [keepass-rs](https://github.com/sseemayer/keepass-rs) ⭐ 173 | 🐛 19 | 🌐 Rust | 📅 2026-09-21 - Rust library for reading KeePass database files.
 * [keepass.io](https://github.com/snapserv/keepass.io) ⭐ 160 | 🐛 8 | 🌐 JavaScript | 📅 2016-09-11 - Node.js library for reading and writing KeePass databases.
 * [openkeepass](https://github.com/cternes/openkeepass) ⭐ 137 | 🐛 10 | 🌐 Java | 📅 2020-10-13 - Java library for reading and writing KeePass 2.x database files.
 * [KeePassKit](https://github.com/MacPass/KeePassKit) ⭐ 135 | 🐛 8 | 🌐 Objective-C | 📅 2026-09-18 - Objective-C framework for loading, storing, and manipulating KeePass databases.
@@ -98,7 +98,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ## Plugins
 
-* [KeePassHTTP](https://github.com/pfn/keepasshttp) ⭐ 2,039 | 🐛 209 | 🌐 JavaScript | 📅 2023-01-21 - KeePass plugin for securely exposing password entries over HTTP.
+* [KeePassHTTP](https://github.com/pfn/keepasshttp) ⭐ 2,040 | 🐛 209 | 🌐 JavaScript | 📅 2023-01-21 - KeePass plugin for securely exposing password entries over HTTP.
 * [KeeAnywhere](https://github.com/Kyrodan/KeeAnywhere) ⭐ 752 | 🐛 115 | 🌐 C# | 📅 2026-05-08 - KeePass plugin that provides access to cloud storage providers.
 * [KeePassRPC](https://github.com/kee-org/keepassrpc) ⭐ 678 | 🐛 9 | 🌐 C# | 📅 2024-07-04 - KeePass plugin used by the Kee browser add-on to connect browsers to KeePass.
 * [KeeAgent](https://github.com/dlech/KeeAgent) ⭐ 569 | 🐛 73 | 🌐 C# | 📅 2024-07-06 - KeePass 2.x plugin that lets other programs access SSH keys stored in a KeePass database.
@@ -117,19 +117,19 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 ## Tools
 
 * [pass import](https://github.com/roddhjav/pass-import) ⭐ 917 | 🐛 22 | 🌐 Python | 📅 2026-06-07 - Extension for pass that imports data from existing password managers.
-* [keepass-diff](https://github.com/Narigo/keepass-diff) ⭐ 368 | 🐛 28 | 🌐 Rust | 📅 2024-08-17 - Command-line tool written in Rust for showing differences between two KeePass database files.
+* [keepass-diff](https://github.com/Narigo/keepass-diff) ⭐ 369 | 🐛 28 | 🌐 Rust | 📅 2024-08-17 - Command-line tool written in Rust for showing differences between two KeePass database files.
 * [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) ⭐ 306 | 🐛 14 | 🌐 Rust | 📅 2026-05-17 - Git credential helper that uses KeePassXC as a credential store.
 * [enpass-to-keepass](https://github.com/jsphpl/enpass-to-keepass) ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2023-03-31 - Tool for converting Enpass CSV exports for import into KeePass databases with KeePassXC.
 * [ulauncher-keepassxc](https://github.com/pbkhrv/ulauncher-keepassxc) ⭐ 24 | 🐛 19 | 🌐 Python | 📅 2023-07-21 - Ulauncher extension for quickly searching a KeePassXC database.
 * [KeePass2 to KeePassX Converter](https://github.com/dvorka/keepass2-to-keepassx) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2018-08-29 - Java tool for converting KeePass 2 databases to KeePassX databases.
-* [kp-diff](https://github.com/aivanovski/kp-diff) ⭐ 17 | 🐛 8 | 🌐 Kotlin | 📅 2026-06-27 - Command-line tool written in Kotlin for showing differences between KeePass database files.
+* [kp-diff](https://github.com/aivanovski/kp-diff) ⭐ 18 | 🐛 8 | 🌐 Kotlin | 📅 2026-06-27 - Command-line tool written in Kotlin for showing differences between KeePass database files.
 * [secrets-dispatcher](https://github.com/nikicat/secrets-dispatcher) ⭐ 11 | 🐛 7 | 🌐 Go | 📅 2026-08-05 - Secret Service proxy that adds per-application approval and an audit log in front of any Secret Service keyring, including KeePassXC's, showing which apps read stored entries.
-* [keepass-2-file](https://github.com/Dracks/keepass-2-file) ⭐ 8 | 🐛 14 | 🌐 Rust | 📅 2026-09-25 - Command-line tool for generating plaintext config files from secrets stored in a KeePass database.
+* [keepass-2-file](https://github.com/Dracks/keepass-2-file) ⭐ 8 | 🐛 12 | 🌐 Rust | 📅 2026-09-30 - Command-line tool for generating plaintext config files from secrets stored in a KeePass database.
 * [keepass-print](https://github.com/mojoaxel/keepass-print) ⭐ 1 | 🐛 2 | 🌐 JavaScript | 📅 2024-01-21 - Command-line tool written in JavaScript for printing password lists for long-term backup.
 
 ## Security
 
-* [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) ⭐ 13,695 | 🐛 518 | 🌐 C | 📅 2026-09-28 - Tool for extracting KeePass database hashes for John the Ripper and Hashcat.
+* [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) ⭐ 13,701 | 🐛 517 | 🌐 C | 📅 2026-09-30 - Tool for extracting KeePass database hashes for John the Ripper and Hashcat.
 * [KeeFarce](https://github.com/denandz/KeeFarce) ⭐ 1,028 | 🐛 4 | 🌐 C++ | 📅 2015-11-17 - Tool for extracting passwords from KeePass 2.x databases directly from memory.
 * [KeeThief](https://github.com/GhostPack/KeeThief) ⭐ 958 | 🐛 1 | 🌐 C# | 📅 2020-11-18 - Tool for extracting KeePass 2.x key material from memory and enumerating KeePass trigger-system behavior.
 * [mod0keecrack](https://github.com/devio/mod0keecrack) ⭐ 132 | 🐛 2 | 🌐 C | 📅 2018-07-26 - KeePass 2 database master-password cracker.
@@ -155,4 +155,4 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
