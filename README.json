@@ -21,7 +21,7 @@
                 "open_issues": 903,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29031,
+                "stars": 29038,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -122,7 +122,7 @@
                 "id": 637955558,
                 "language": "Clojure",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T15:26:35Z",
+                "last_commit": "2026-10-01T15:08:13Z",
                 "open_issues": 8,
                 "owner": "OneKeePass",
                 "repo": "desktop",
@@ -324,7 +324,7 @@
                 "open_issues": 97,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1699,
+                "stars": 1700,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -500,10 +500,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-25T09:18:36Z",
-                "open_issues": 544,
+                "open_issues": 545,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7397,
+                "stars": 7404,
                 "topics": [
                   "android",
                   "android-application",
@@ -537,10 +537,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T09:40:14Z",
-                "open_issues": 1182,
+                "open_issues": 1183,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6266,
+                "stars": 6269,
                 "topics": [
                   "android",
                   "keepass",
@@ -644,11 +644,11 @@
                 "id": 115543662,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T07:18:52Z",
+                "last_commit": "2026-10-01T07:51:17Z",
                 "open_issues": 203,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2346,
+                "stars": 2347,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -888,7 +888,7 @@
             "open_issues": 42,
             "owner": "libkeepass",
             "repo": "pykeepass",
-            "stars": 510,
+            "stars": 511,
             "topics": [
               "hacktoberfest",
               "kdbx",
@@ -1249,7 +1249,7 @@
             "open_issues": 68,
             "owner": "sirAndros",
             "repo": "KeePassWinHello",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "biometrics",
               "keepass",
@@ -1698,8 +1698,8 @@
             "id": 894605785,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T07:26:15Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-01T16:06:09Z",
+            "open_issues": 13,
             "owner": "Dracks",
             "repo": "keepass-2-file",
             "stars": 8,
@@ -1754,7 +1754,7 @@
             "open_issues": 517,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13701,
+            "stars": 13708,
             "topics": [
               "assembler",
               "c",
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:37:48.614Z",
+    "last_updated": "2026-10-01T17:14:06.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
