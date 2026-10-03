@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T04:25:51Z",
-                "open_issues": 905,
+                "open_issues": 907,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29057,
+                "stars": 29062,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -84,7 +84,7 @@
                 "open_issues": 169,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2793,
+                "stars": 2794,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -503,7 +503,7 @@
                 "open_issues": 545,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7407,
+                "stars": 7409,
                 "topics": [
                   "android",
                   "android-application",
@@ -537,10 +537,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T09:40:14Z",
-                "open_issues": 1189,
+                "open_issues": 1190,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6270,
+                "stars": 6273,
                 "topics": [
                   "android",
                   "keepass",
@@ -644,7 +644,7 @@
                 "id": 115543662,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T09:55:58Z",
+                "last_commit": "2026-10-03T06:41:38Z",
                 "open_issues": 203,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
@@ -697,7 +697,7 @@
                 "open_issues": 25,
                 "owner": "kee-org",
                 "repo": "browser-addon",
-                "stars": 476,
+                "stars": 477,
                 "topics": [
                   "chrome",
                   "chrome-extension",
@@ -937,8 +937,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T02:03:39Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T12:16:59Z",
+            "open_issues": 5,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -1175,7 +1175,7 @@
             "open_issues": 73,
             "owner": "dlech",
             "repo": "KeeAgent",
-            "stars": 569,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1754,7 +1754,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13709,
+            "stars": 13715,
             "topics": [
               "assembler",
               "c",
@@ -1883,8 +1883,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T02:03:39Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T12:16:59Z",
+            "open_issues": 5,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:55:30.038Z",
+    "last_updated": "2026-10-03T15:01:44.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
