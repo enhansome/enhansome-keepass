@@ -21,7 +21,7 @@
                 "open_issues": 905,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29048,
+                "stars": 29057,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -84,7 +84,7 @@
                 "open_issues": 169,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2794,
+                "stars": 2793,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -324,7 +324,7 @@
                 "open_issues": 97,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1701,
+                "stars": 1702,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -503,7 +503,7 @@
                 "open_issues": 545,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7406,
+                "stars": 7407,
                 "topics": [
                   "android",
                   "android-application",
@@ -540,7 +540,7 @@
                 "open_issues": 1189,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6269,
+                "stars": 6270,
                 "topics": [
                   "android",
                   "keepass",
@@ -937,8 +937,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-03-17T18:19:16Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-03T02:03:39Z",
+            "open_issues": 3,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -1754,7 +1754,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13708,
+            "stars": 13709,
             "topics": [
               "assembler",
               "c",
@@ -1883,8 +1883,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-03-17T18:19:16Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-03T02:03:39Z",
+            "open_issues": 3,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:28:03.036Z",
+    "last_updated": "2026-10-03T04:55:30.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
@@ -1934,7 +1934,7 @@
       "open_issues": 2,
       "owner": "lgg",
       "repo": "awesome-keepass",
-      "stars": 568,
+      "stars": 570,
       "topics": [
         "awesome",
         "awesome-list",
