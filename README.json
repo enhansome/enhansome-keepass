@@ -21,7 +21,7 @@
                 "open_issues": 907,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29082,
+                "stars": 29096,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -122,11 +122,11 @@
                 "id": 637955558,
                 "language": "Clojure",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T22:25:04Z",
+                "last_commit": "2026-10-05T17:21:26Z",
                 "open_issues": 8,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 500,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -294,7 +294,7 @@
                 "open_issues": 292,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6876,
+                "stars": 6875,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -503,7 +503,7 @@
                 "open_issues": 545,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7415,
+                "stars": 7424,
                 "topics": [
                   "android",
                   "android-application",
@@ -536,11 +536,11 @@
                 "id": 104254445,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T09:40:14Z",
-                "open_issues": 1191,
+                "last_commit": "2026-10-05T13:26:58Z",
+                "open_issues": 1192,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6272,
+                "stars": 6270,
                 "topics": [
                   "android",
                   "keepass",
@@ -648,7 +648,7 @@
                 "open_issues": 203,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2349,
+                "stars": 2352,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -937,8 +937,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T12:16:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-05T17:29:18Z",
+            "open_issues": 4,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -1754,7 +1754,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13725,
+            "stars": 13731,
             "topics": [
               "assembler",
               "c",
@@ -1883,8 +1883,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T12:16:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-05T17:29:18Z",
+            "open_issues": 4,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:37:01.289Z",
+    "last_updated": "2026-10-05T19:37:48.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
