@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T04:25:51Z",
-                "open_issues": 910,
+                "open_issues": 909,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29105,
+                "stars": 29110,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13008,
+                "stars": 13009,
                 "topics": [
                   "electron",
                   "javascript",
@@ -122,7 +122,7 @@
                 "id": 637955558,
                 "language": "Clojure",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T17:21:26Z",
+                "last_commit": "2026-10-06T15:46:28Z",
                 "open_issues": 8,
                 "owner": "OneKeePass",
                 "repo": "desktop",
@@ -392,7 +392,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13008,
+                "stars": 13009,
                 "topics": [
                   "electron",
                   "javascript",
@@ -503,7 +503,7 @@
                 "open_issues": 545,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7426,
+                "stars": 7427,
                 "topics": [
                   "android",
                   "android-application",
@@ -536,11 +536,11 @@
                 "id": 104254445,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T13:26:58Z",
+                "last_commit": "2026-10-06T16:39:31Z",
                 "open_issues": 1192,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6273,
+                "stars": 6274,
                 "topics": [
                   "android",
                   "keepass",
@@ -645,10 +645,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T06:41:38Z",
-                "open_issues": 203,
+                "open_issues": 204,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2352,
+                "stars": 2351,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -1128,7 +1128,7 @@
             "open_issues": 115,
             "owner": "Kyrodan",
             "repo": "KeeAnywhere",
-            "stars": 752,
+            "stars": 753,
             "topics": [
               "keepass"
             ]
@@ -1754,7 +1754,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13732,
+            "stars": 13734,
             "topics": [
               "assembler",
               "c",
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:47:44.184Z",
+    "last_updated": "2026-10-06T17:01:40.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
