@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T04:25:51Z",
-                "open_issues": 909,
+                "open_issues": 922,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29110,
+                "stars": 29120,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -81,10 +81,10 @@
                 "language": "Dart",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-15T14:46:25Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2800,
+                "stars": 2802,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -122,11 +122,11 @@
                 "id": 637955558,
                 "language": "Clojure",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T15:46:28Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-07T15:21:20Z",
+                "open_issues": 4,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 501,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -294,7 +294,7 @@
                 "open_issues": 292,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6876,
+                "stars": 6878,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -324,7 +324,7 @@
                 "open_issues": 97,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1702,
+                "stars": 1703,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -500,10 +500,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-25T09:18:36Z",
-                "open_issues": 545,
+                "open_issues": 547,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7427,
+                "stars": 7426,
                 "topics": [
                   "android",
                   "android-application",
@@ -540,7 +540,7 @@
                 "open_issues": 1192,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6274,
+                "stars": 6275,
                 "topics": [
                   "android",
                   "keepass",
@@ -648,7 +648,7 @@
                 "open_issues": 204,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2351,
+                "stars": 2352,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -937,8 +937,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T17:29:18Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-07T15:54:22Z",
+            "open_issues": 5,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -966,7 +966,7 @@
             "open_issues": 20,
             "owner": "sseemayer",
             "repo": "keepass-rs",
-            "stars": 173,
+            "stars": 174,
             "topics": [
               "kdbx-database",
               "keepass",
@@ -1151,7 +1151,7 @@
             "open_issues": 9,
             "owner": "kee-org",
             "repo": "keepassrpc",
-            "stars": 678,
+            "stars": 677,
             "topics": [
               "keepass",
               "keepassrpc-plugin"
@@ -1883,8 +1883,8 @@
             "id": 47929285,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T17:29:18Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-07T15:54:22Z",
+            "open_issues": 5,
             "owner": "jorabin",
             "repo": "KeePassJava2",
             "stars": 287,
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:01:40.644Z",
+    "last_updated": "2026-10-07T17:38:52.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
