@@ -24,7 +24,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Cross-platform Clients
 
-* [KeePassXC](https://keepassxc.org/) - Cross-platform community fork of KeePass. ([source](https://github.com/keepassxreboot/keepassxc) ⭐ 29,223 | 🐛 932 | 🌐 C++ | 📅 2026-10-14)
+* [KeePassXC](https://keepassxc.org/) - Cross-platform community fork of KeePass. ([source](https://github.com/keepassxreboot/keepassxc) ⭐ 29,238 | 🐛 934 | 🌐 C++ | 📅 2026-10-14)
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass. ([source](https://github.com/keeweb/keeweb) ⭐ 13,013 | 🐛 441 | 🌐 HTML | 📅 2026-05-08)
 * [AuthPass](https://github.com/authpass/authpass) ⭐ 2,804 | 🐛 170 | 🌐 Dart | 📅 2026-09-15 - Password manager based on Flutter for all platforms with KeePass 2.x compatibility.
 * [OneKeePass](https://github.com/OneKeePass/desktop) ⭐ 508 | 🐛 4 | 🌐 Clojure | 📅 2026-10-13 - Secure password manager for macOS, Linux, and Windows.
@@ -62,10 +62,10 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Android Clients
 
-* [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - KeePass password manager for Android. ([source](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,473 | 🐛 554 | 🌐 Kotlin | 📅 2026-10-10)
-* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password manager app for Android. ([source](https://github.com/PhilippC/keepass2android) ⭐ 6,297 | 🐛 1,192 | 🌐 C# | 📅 2026-10-14)
+* [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - KeePass password manager for Android. ([source](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,479 | 🐛 554 | 🌐 Kotlin | 📅 2026-10-10)
+* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password manager app for Android. ([source](https://github.com/PhilippC/keepass2android) ⭐ 6,300 | 🐛 1,176 | 🌐 C# | 📅 2026-10-15)
 * [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - KeePass implementation for Android. ([source](https://github.com/bpellin/keepassdroid) ⭐ 1,430 | 🐛 325 | 🌐 Java | 📅 2025-04-20)
-* [KeePassVault](https://play.google.com/store/apps/details?id=com.ivanovsky.passnotes) - KeePass password manager for Android. ([source](https://github.com/aivanovski/keepassvault) ⭐ 118 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-26)
+* [KeePassVault](https://play.google.com/store/apps/details?id=com.ivanovsky.passnotes) - KeePass password manager for Android. ([source](https://github.com/aivanovski/keepassvault) ⭐ 118 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-26)
 * [TinyKeePass](https://github.com/sorz/TinyKeePass) ⭐ 49 | 🐛 14 | 🌐 Java | 📅 2021-10-18 - Simple read-only KeePass Android app written in Java and Kotlin.
 
 ### Browser Extensions
@@ -118,7 +118,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 * [pass import](https://github.com/roddhjav/pass-import) ⭐ 916 | 🐛 21 | 🌐 Python | 📅 2026-06-07 - Extension for pass that imports data from existing password managers.
 * [keepass-diff](https://github.com/Narigo/keepass-diff) ⭐ 369 | 🐛 28 | 🌐 Rust | 📅 2024-08-17 - Command-line tool written in Rust for showing differences between two KeePass database files.
-* [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) ⭐ 308 | 🐛 13 | 🌐 Rust | 📅 2026-10-14 - Git credential helper that uses KeePassXC as a credential store.
+* [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) ⭐ 308 | 🐛 14 | 🌐 Rust | 📅 2026-10-14 - Git credential helper that uses KeePassXC as a credential store.
 * [enpass-to-keepass](https://github.com/jsphpl/enpass-to-keepass) ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2023-03-31 - Tool for converting Enpass CSV exports for import into KeePass databases with KeePassXC.
 * [ulauncher-keepassxc](https://github.com/pbkhrv/ulauncher-keepassxc) ⭐ 24 | 🐛 19 | 🌐 Python | 📅 2023-07-21 - Ulauncher extension for quickly searching a KeePassXC database.
 * [KeePass2 to KeePassX Converter](https://github.com/dvorka/keepass2-to-keepassx) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2018-08-29 - Java tool for converting KeePass 2 databases to KeePassX databases.
@@ -155,4 +155,4 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
