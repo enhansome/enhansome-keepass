@@ -17,11 +17,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T13:48:07Z",
-                "open_issues": 944,
+                "last_commit": "2026-10-23T23:14:20Z",
+                "open_issues": 950,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29417,
+                "stars": 29444,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 440,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13021,
+                "stars": 13022,
                 "topics": [
                   "electron",
                   "javascript",
@@ -84,7 +84,7 @@
                 "open_issues": 171,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2805,
+                "stars": 2804,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -126,7 +126,7 @@
                 "open_issues": 4,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 512,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -164,7 +164,7 @@
                 "id": 1264909992,
                 "language": "Dart",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T02:53:23Z",
+                "last_commit": "2026-10-24T09:29:49Z",
                 "open_issues": 0,
                 "owner": "lyj404",
                 "repo": "keestone",
@@ -294,7 +294,7 @@
                 "open_issues": 296,
                 "owner": "MacPass",
                 "repo": "MacPass",
-                "stars": 6885,
+                "stars": 6887,
                 "topics": [
                   "autotype",
                   "kdbx",
@@ -324,7 +324,7 @@
                 "open_issues": 105,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1722,
+                "stars": 1724,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -352,7 +352,7 @@
                 "open_issues": 230,
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1470,
+                "stars": 1471,
                 "topics": [
                   "cocoa",
                   "cryptography",
@@ -392,7 +392,7 @@
                 "open_issues": 440,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13021,
+                "stars": 13022,
                 "topics": [
                   "electron",
                   "javascript",
@@ -411,7 +411,7 @@
               "description": "KeePass 2 editor for Node.js with a browser frontend.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "KeePass2 editor for Node.js with a browser frontend",
                 "homepage": null,
                 "id": 14282018,
@@ -499,11 +499,11 @@
                 "id": 107244490,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T20:51:31Z",
-                "open_issues": 553,
+                "last_commit": "2026-10-24T13:36:32Z",
+                "open_issues": 557,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7523,
+                "stars": 7530,
                 "topics": [
                   "android",
                   "android-application",
@@ -540,7 +540,7 @@
                 "open_issues": 1179,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6320,
+                "stars": 6322,
                 "topics": [
                   "android",
                   "keepass",
@@ -645,10 +645,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-22T15:53:57Z",
-                "open_issues": 214,
+                "open_issues": 213,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2366,
+                "stars": 2368,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -781,7 +781,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-13T01:40:24Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "firecat53",
                 "repo": "keepmenu",
                 "stars": 225,
@@ -1175,7 +1175,7 @@
             "open_issues": 73,
             "owner": "dlech",
             "repo": "KeeAgent",
-            "stars": 568,
+            "stars": 569,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1476,7 +1476,7 @@
             "open_issues": 21,
             "owner": "roddhjav",
             "repo": "pass-import",
-            "stars": 916,
+            "stars": 915,
             "topics": [
               "import",
               "importer",
@@ -1754,7 +1754,7 @@
             "open_issues": 518,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13807,
+            "stars": 13810,
             "topics": [
               "assembler",
               "c",
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:37:02.602Z",
+    "last_updated": "2026-10-24T14:12:32.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
@@ -1934,7 +1934,7 @@
       "open_issues": 3,
       "owner": "lgg",
       "repo": "awesome-keepass",
-      "stars": 573,
+      "stars": 572,
       "topics": [
         "awesome",
         "awesome-list",
