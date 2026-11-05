@@ -17,11 +17,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T17:47:38Z",
-                "open_issues": 996,
+                "last_commit": "2026-11-05T10:30:07Z",
+                "open_issues": 998,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29764,
+                "stars": 29793,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13035,
+                "stars": 13034,
                 "topics": [
                   "electron",
                   "javascript",
@@ -84,7 +84,7 @@
                 "open_issues": 171,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2810,
+                "stars": 2811,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -126,7 +126,7 @@
                 "open_issues": 4,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 517,
+                "stars": 520,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -168,7 +168,7 @@
                 "open_issues": 1,
                 "owner": "lyj404",
                 "repo": "keestone",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "cross-platform",
                   "flutter",
@@ -318,10 +318,10 @@
                 "language": "Swift",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-23T20:38:25Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1743,
+                "stars": 1745,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -346,7 +346,7 @@
                 "language": "Objective-C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-17T14:03:41Z",
-                "open_issues": 231,
+                "open_issues": 232,
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
                 "stars": 1474,
@@ -389,7 +389,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13035,
+                "stars": 13034,
                 "topics": [
                   "electron",
                   "javascript",
@@ -497,10 +497,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-01T09:37:49Z",
-                "open_issues": 562,
+                "open_issues": 563,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7617,
+                "stars": 7625,
                 "topics": [
                   "android",
                   "android-application",
@@ -533,11 +533,11 @@
                 "id": 104254445,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T01:52:30Z",
-                "open_issues": 1180,
+                "last_commit": "2026-11-05T11:13:08Z",
+                "open_issues": 1182,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6367,
+                "stars": 6370,
                 "topics": [
                   "android",
                   "keepass",
@@ -560,11 +560,11 @@
                 "id": 101527,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T01:34:06Z",
+                "last_commit": "2026-11-05T01:11:20Z",
                 "open_issues": 324,
                 "owner": "bpellin",
                 "repo": "keepassdroid",
-                "stars": 1430,
+                "stars": 1431,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -642,10 +642,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-28T05:00:39Z",
-                "open_issues": 213,
+                "open_issues": 214,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -1125,7 +1125,7 @@
             "open_issues": 118,
             "owner": "Kyrodan",
             "repo": "KeeAnywhere",
-            "stars": 754,
+            "stars": 756,
             "topics": [
               "keepass"
             ]
@@ -1148,7 +1148,7 @@
             "open_issues": 9,
             "owner": "kee-org",
             "repo": "keepassrpc",
-            "stars": 679,
+            "stars": 680,
             "topics": [
               "keepass",
               "keepassrpc-plugin"
@@ -1189,11 +1189,11 @@
             "id": 271611106,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T10:13:24Z",
+            "last_commit": "2026-11-05T17:14:09Z",
             "open_issues": 0,
             "owner": "Rookiestyle",
             "repo": "KeePassOTP",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "keepass",
               "keepass-plugin",
@@ -1246,7 +1246,7 @@
             "open_issues": 69,
             "owner": "sirAndros",
             "repo": "KeePassWinHello",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "biometrics",
               "keepass",
@@ -1527,10 +1527,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-14T08:55:21Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "Frederick888",
             "repo": "git-credential-keepassxc",
-            "stars": 312,
+            "stars": 314,
             "topics": [
               "cli",
               "command-line",
@@ -1663,8 +1663,8 @@
             "id": 1153038635,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-05T13:35:32Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-05T16:38:26Z",
+            "open_issues": 8,
             "owner": "nikicat",
             "repo": "secrets-dispatcher",
             "stars": 12,
@@ -1751,7 +1751,7 @@
             "open_issues": 522,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13866,
+            "stars": 13870,
             "topics": [
               "assembler",
               "c",
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:23:31.266Z",
+    "last_updated": "2026-11-05T18:27:56.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
