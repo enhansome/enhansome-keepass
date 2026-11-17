@@ -17,11 +17,11 @@
                 "id": 52729242,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T11:21:18Z",
-                "open_issues": 1019,
+                "last_commit": "2026-11-17T13:46:05Z",
+                "open_issues": 1021,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 30021,
+                "stars": 30029,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13041,
+                "stars": 13040,
                 "topics": [
                   "electron",
                   "javascript",
@@ -80,8 +80,8 @@
                 "id": 203756716,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T20:44:28Z",
-                "open_issues": 177,
+                "last_commit": "2026-11-17T11:24:32Z",
+                "open_issues": 165,
                 "owner": "authpass",
                 "repo": "authpass",
                 "stars": 2813,
@@ -147,7 +147,7 @@
                 "open_issues": 2,
                 "owner": "dlech",
                 "repo": "KeePass2.x",
-                "stars": 324,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -389,7 +389,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13041,
+                "stars": 13040,
                 "topics": [
                   "electron",
                   "javascript",
@@ -497,10 +497,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-01T09:37:49Z",
-                "open_issues": 578,
+                "open_issues": 579,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7690,
+                "stars": 7695,
                 "topics": [
                   "android",
                   "android-application",
@@ -534,10 +534,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-16T13:51:26Z",
-                "open_issues": 1139,
+                "open_issues": 1102,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6398,
+                "stars": 6403,
                 "topics": [
                   "android",
                   "keepass",
@@ -645,7 +645,7 @@
                 "open_issues": 218,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2395,
+                "stars": 2396,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -1172,7 +1172,7 @@
             "open_issues": 74,
             "owner": "dlech",
             "repo": "KeeAgent",
-            "stars": 571,
+            "stars": 570,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:54.617Z"
@@ -1695,7 +1695,7 @@
             "id": 894605785,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T20:07:13Z",
+            "last_commit": "2026-11-17T05:44:15Z",
             "open_issues": 12,
             "owner": "Dracks",
             "repo": "keepass-2-file",
@@ -1751,7 +1751,7 @@
             "open_issues": 526,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13939,
+            "stars": 13945,
             "topics": [
               "assembler",
               "c",
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:46:18.211Z",
+    "last_updated": "2026-11-17T19:31:42.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
