@@ -18,10 +18,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-24T16:59:12Z",
-                "open_issues": 1051,
+                "open_issues": 1055,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 30208,
+                "stars": 30231,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13045,
+                "stars": 13046,
                 "topics": [
                   "electron",
                   "javascript",
@@ -143,8 +143,8 @@
                 "id": 42155635,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2025-08-23T20:06:48Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-27T17:23:47Z",
+                "open_issues": 1,
                 "owner": "dlech",
                 "repo": "KeePass2.x",
                 "stars": 325,
@@ -321,7 +321,7 @@
                 "open_issues": 110,
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1772,
+                "stars": 1773,
                 "topics": [
                   "ios",
                   "ios-swift",
@@ -389,7 +389,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13045,
+                "stars": 13046,
                 "topics": [
                   "electron",
                   "javascript",
@@ -528,7 +528,7 @@
                 "open_issues": 575,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7752,
+                "stars": 7763,
                 "topics": [
                   "android",
                   "android-application",
@@ -562,10 +562,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-19T10:40:45Z",
-                "open_issues": 1068,
+                "open_issues": 1069,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6424,
+                "stars": 6428,
                 "topics": [
                   "android",
                   "keepass",
@@ -669,11 +669,11 @@
                 "id": 115543662,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T06:37:59Z",
-                "open_issues": 225,
+                "last_commit": "2026-11-27T14:30:29Z",
+                "open_issues": 223,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2409,
+                "stars": 2410,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -941,7 +941,7 @@
             "open_issues": 42,
             "owner": "libkeepass",
             "repo": "pykeepass",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "hacktoberfest",
               "kdbx",
@@ -1177,11 +1177,11 @@
             "id": 47201020,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-26T15:47:25Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-27T16:30:18Z",
+            "open_issues": 31,
             "owner": "Kyrodan",
             "repo": "KeeAnywhere",
-            "stars": 768,
+            "stars": 769,
             "topics": [
               "keepass"
             ]
@@ -1521,7 +1521,7 @@
           "repo_info": {
             "archived": false,
             "description": "A pass extension for importing data from most existing password managers",
-            "homepage": "https://www.passwordstore.org/",
+            "homepage": "https://pass-extension.org/import",
             "id": 78456127,
             "language": "Python",
             "license": "GPL-3.0",
@@ -1807,7 +1807,7 @@
             "open_issues": 529,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13965,
+            "stars": 13971,
             "topics": [
               "assembler",
               "c",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:57:05.476Z",
+    "last_updated": "2026-11-27T19:45:57.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
