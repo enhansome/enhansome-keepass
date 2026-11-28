@@ -21,7 +21,7 @@
                 "open_issues": 1055,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 30231,
+                "stars": 30255,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13046,
+                "stars": 13044,
                 "topics": [
                   "electron",
                   "javascript",
@@ -84,7 +84,7 @@
                 "open_issues": 178,
                 "owner": "authpass",
                 "repo": "authpass",
-                "stars": 2818,
+                "stars": 2817,
                 "topics": [
                   "android",
                   "contributions-welcome",
@@ -164,7 +164,7 @@
                 "id": 1264909992,
                 "language": "Dart",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T12:11:33Z",
+                "last_commit": "2026-11-28T06:53:02Z",
                 "open_issues": 2,
                 "owner": "lyj404",
                 "repo": "keestone",
@@ -288,7 +288,7 @@
                 "language": "Objective-C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T10:07:42Z",
-                "open_issues": 298,
+                "open_issues": 299,
                 "owner": "MacPass",
                 "repo": "MacPass",
                 "stars": 6905,
@@ -389,7 +389,7 @@
                 "open_issues": 441,
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 13046,
+                "stars": 13044,
                 "topics": [
                   "electron",
                   "javascript",
@@ -484,23 +484,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Modern, local secrets manager compatible with KeePass vaults",
+                "description": "Modern, local-first KeePass (KDBX) password manager with terminal (TUI), offline web client, and AI agent integration",
                 "homepage": null,
                 "id": 1433569972,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-25T00:01:10Z",
+                "last_commit": "2026-11-28T01:51:17Z",
                 "open_issues": 0,
                 "owner": "yaroshevych",
                 "repo": "bypass",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
+                  "ai",
+                  "kdbx",
                   "keepass",
                   "password-manager",
-                  "secret-management",
                   "secret-manager",
-                  "secrets-management",
-                  "secrets-manager"
+                  "terminal",
+                  "tui"
                 ]
               },
               "first_seen": "2026-11-25T20:20:23.472Z"
@@ -525,10 +526,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-23T21:57:20Z",
-                "open_issues": 575,
+                "open_issues": 574,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7763,
+                "stars": 7772,
                 "topics": [
                   "android",
                   "android-application",
@@ -562,10 +563,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-19T10:40:45Z",
-                "open_issues": 1069,
+                "open_issues": 1067,
                 "owner": "PhilippC",
                 "repo": "keepass2android",
-                "stars": 6428,
+                "stars": 6429,
                 "topics": [
                   "android",
                   "keepass",
@@ -592,7 +593,7 @@
                 "open_issues": 327,
                 "owner": "bpellin",
                 "repo": "keepassdroid",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:18:54.617Z"
@@ -670,10 +671,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-27T14:30:29Z",
-                "open_issues": 223,
+                "open_issues": 224,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc-browser",
-                "stars": 2410,
+                "stars": 2412,
                 "topics": [
                   "browser-extension",
                   "hacktoberfest",
@@ -821,6 +822,27 @@
             },
             {
               "node_type": "item",
+              "title": "Pastilda",
+              "description": "Open-source hardware password manager that works with KeePass 2.x databases and emulates a USB keyboard. (legacy source, Bitbucket archive lookup)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "open-source password manager",
+                "homepage": null,
+                "id": 63237921,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2017-06-26T13:44:36Z",
+                "open_issues": 8,
+                "owner": "thirdpin",
+                "repo": "pastilda",
+                "stars": 103,
+                "topics": []
+              },
+              "first_seen": "2026-11-28T18:38:49.006Z"
+            },
+            {
+              "node_type": "item",
               "title": "WinPass",
               "description": "KeePass password manager client for Windows Mobile.",
               "children": [],
@@ -847,23 +869,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Modern, local secrets manager compatible with KeePass vaults",
+                "description": "Modern, local-first KeePass (KDBX) password manager with terminal (TUI), offline web client, and AI agent integration",
                 "homepage": null,
                 "id": 1433569972,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-25T00:01:10Z",
+                "last_commit": "2026-11-28T01:51:17Z",
                 "open_issues": 0,
                 "owner": "yaroshevych",
                 "repo": "bypass",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
+                  "ai",
+                  "kdbx",
                   "keepass",
                   "password-manager",
-                  "secret-management",
                   "secret-manager",
-                  "secrets-management",
-                  "secrets-manager"
+                  "terminal",
+                  "tui"
                 ]
               },
               "first_seen": "2026-11-25T20:20:23.472Z"
@@ -896,7 +919,7 @@
             {
               "node_type": "item",
               "title": "kdbxviewer",
-              "description": "Command-line tool for viewing KeePass 2 database files. (source)",
+              "description": "Command-line tool for viewing KeePass 2 database files.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1177,11 +1200,11 @@
             "id": 47201020,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-27T16:30:18Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-28T18:00:06Z",
+            "open_issues": 22,
             "owner": "Kyrodan",
             "repo": "KeeAnywhere",
-            "stars": 769,
+            "stars": 771,
             "topics": [
               "keepass"
             ]
@@ -1807,7 +1830,7 @@
             "open_issues": 529,
             "owner": "openwall",
             "repo": "john",
-            "stars": 13971,
+            "stars": 13973,
             "topics": [
               "assembler",
               "c",
@@ -1975,7 +1998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:45:57.344Z",
+    "last_updated": "2026-11-28T18:38:49.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of KeePass-related projects",
@@ -1983,7 +2006,7 @@
       "id": 107390084,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-25T03:06:35Z",
+      "last_commit": "2026-11-28T04:59:20Z",
       "open_issues": 3,
       "owner": "lgg",
       "repo": "awesome-keepass",
@@ -2011,7 +2034,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "333866cc48e03c495b7e22d2d09194947ae7d134",
+    "original_repository_sha": "f6c7e3260750cfa330bf1d462c0e9f53b8b51b66",
     "enhanced_repository": "enhansome/enhansome-keepass",
     "enhanced_repository_description": null,
     "title": "Awesome KeePass Projects with stars"
